@@ -1,0 +1,97 @@
+varietas,jenis_tanah,tekstur,ph,n,p,k,umur_hst,jarak_tanam,benih,urea,npk,sp36,kcl,hasil,kekurangan_hara,rekomendasi,umur_panen,hasil_panen
+Bisi 2,Latosol,Lempung Berpasir,6.5,28,20,22,115,22x80,1,150,200,50,0,6.2,N,Tambah Urea+SP36
+NK,Andosol,Lempung,6.3,22,18,18,110,30x40,2,200,250,0,0,5.8,N,Tambah Urea
+Lokal,Regosol,Lempung,5.9,15,12,16,105,40x40,1,100,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung,6.7,32,26,24,120,22x60,1,200,200,50,50,7.0,-,Seimbang
+Bisi 2,Andosol,Pasir,6.4,18,10,12,100,30x50,2,180,200,0,0,5.0,N & P,Tambah Urea+SP36
+Lokal,Latosol,Lempung Berpasir,6.2,25,20,18,110,25x75,1,200,250,0,0,5.5,P,Tambah SP36
+NK,Andosol,Lempung,6.5,20,18,15,105,30x40,2,150,200,0,0,5.0,N,Tambah Urea
+Bisi 2,Latosol,Lempung Berpasir,6.3,28,22,20,115,22x80,1,200,200,50,0,6.4,K,Tambah KCl
+Lokal,Regosol,Lempung,5.8,18,15,12,100,35x50,1,120,150,0,0,4.8,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung,6.6,30,25,22,110,30x40,2,200,250,50,50,6.8,-,Seimbang
+Bisi 2,Andosol,Lempung Berpasir,6.4,22,18,20,105,25x75,1,180,200,0,0,5.2,N,Tambah Urea
+Lokal,Latosol,Pasir,6.2,20,15,18,110,22x80,1,150,200,0,0,5.0,P,Tambah SP36
+NK,Andosol,Lempung Berpasir,6.5,25,20,22,115,30x40,2,200,250,50,50,6.6,K,Tambah KCl
+Bisi 2,Latosol,Lempung,6.3,28,22,24,120,25x75,1,200,200,50,0,6.9,-,Seimbang
+Lokal,Regosol,Lempung,6.0,15,12,16,100,35x50,1,120,150,0,0,4.7,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.4,22,18,20,110,22x80,1,180,200,0,0,5.5,N,Tambah Urea
+Bisi 2,Andosol,Lempung,6.2,25,20,22,115,30x40,2,200,250,50,50,6.4,K,Tambah KCl
+Lokal,Latosol,Lempung,6.5,28,25,20,120,25x75,1,200,200,50,0,6.8,P,Tambah SP36
+NK,Andosol,Lempung Berpasir,6.3,20,18,15,105,30x40,2,150,200,0,0,5.1,N,Tambah Urea
+Bisi 2,Latosol,Lempung,6.7,32,28,24,120,22x80,1,200,200,50,50,7.1,-,Seimbang
+Lokal,Regosol,Pasir,6.0,18,15,12,100,35x50,1,120,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,25,22,20,110,22x80,1,180,200,0,0,5.7,K,Tambah KCl
+Bisi 2,Andosol,Lempung,6.3,22,18,22,115,30x40,2,200,250,50,50,6.5,P,Tambah SP36
+Lokal,Latosol,Lempung,6.6,30,25,22,120,25x75,1,200,200,50,0,6.9,-,Seimbang
+NK,Andosol,Lempung Berpasir,6.4,20,18,18,105,30x40,2,150,200,0,0,5.4,N,Tambah Urea
+Bisi 2,Latosol,Lempung,6.2,25,20,22,110,22x80,1,180,200,0,0,5.9,K,Tambah KCl
+Lokal,Regosol,Lempung,6.0,18,12,15,100,35x50,1,120,150,0,0,4.8,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,28,22,24,115,25x75,1,200,200,50,0,6.7,P,Tambah SP36
+Bisi 2,Andosol,Lempung,6.3,22,18,20,110,30x40,2,180,200,0,0,5.6,N,Tambah Urea
+Lokal,Latosol,Lempung,6.4,25,20,22,115,22x80,1,200,250,50,50,6.5,K,Tambah KCl
+NK,Andosol,Lempung Berpasir,6.6,30,25,22,120,25x75,1,200,200,50,0,6.9,-,Seimbang
+Bisi 2,Latosol,Lempung,6.2,18,15,18,100,30x40,2,120,150,0,0,5.0,NPK,Tambah Urea+SP36+KCl
+Lokal,Latosol,Lempung,6.5,22,20,20,110,22x80,1,180,200,0,0,5.7,N,Tambah Urea
+NK,Andosol,Lempung Berpasir,6.4,25,22,24,115,30x40,2,200,250,50,50,6.5,K,Tambah KCl
+Bisi 2,Latosol,Lempung,6.3,28,24,20,110,25x75,1,200,200,50,0,6.6,P,Tambah SP36
+Lokal,Regosol,Lempung,6.0,18,15,12,100,35x50,1,120,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,22,18,20,110,30x40,2,150,200,0,0,5.2,N,Tambah Urea
+Bisi 2,Andosol,Lempung,6.2,25,20,22,115,22x80,1,200,250,50,50,6.3,K,Tambah KCl
+Lokal,Latosol,Lempung,6.4,28,22,24,120,25x75,1,200,200,50,0,6.8,P,Tambah SP36
+NK,Andosol,Lempung Berpasir,6.3,20,18,18,105,30x40,2,150,200,0,0,5.4,N,Tambah Urea
+Bisi 2,Latosol,Lempung,6.5,25,20,22,110,22x80,1,180,200,0,0,5.9,K,Tambah KCl
+Lokal,Regosol,Lempung,6.0,18,12,16,100,35x50,1,120,150,0,0,4.8,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.4,22,18,20,110,30x40,2,200,250,50,50,6.5,P,Tambah SP36
+Bisi 2,Latosol,Lempung,6.3,28,24,22,115,25x75,1,200,200,50,0,6.7,-,Seimbang
+Lokal,Latosol,Lempung,6.5,20,18,18,100,30x40,1,150,200,0,0,5.2,N,Tambah Urea
+NK,Andosol,Lempung Berpasir,6.6,30,25,22,120,22x80,1,200,200,50,50,6.9,K,Tambah KCl
+Bisi 2,Latosol,Lempung,6.4,22,20,20,110,25x75,2,180,200,0,0,5.6,P,Tambah SP36
+Bisi 2,Latosol,Lempung,6.5,28,24,22,115,25x75,1,200,200,50,0,6.7,-,Seimbang
+Lokal,Regosol,Lempung,6.0,18,15,12,100,35x50,1,120,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,22,18,20,110,30x40,2,150,200,0,0,5.2,N,Tambah Urea
+Bisi 2,Andosol,Lempung,6.2,25,20,22,115,22x80,1,200,250,50,50,6.3,K,Tambah KCl
+Lokal,Latosol,Lempung,6.4,28,22,24,120,25x75,1,200,200,50,0,6.8,P,Tambah SP36
+NK,Andosol,Lempung Berpasir,6.3,20,18,18,105,30x40,2,150,200,0,0,5.4,N,Tambah Urea
+Bisi 2,Latosol,Lempung,6.5,25,20,22,110,22x80,1,180,200,0,0,5.9,K,Tambah KCl
+Lokal,Regosol,Lempung,6.0,18,12,16,100,35x50,1,120,150,0,0,4.8,NPK,Tambah Urea+SP36+KCl
+Bisi 2,Latosol,Lempung,6.3,28,24,22,115,25x75,1,200,200,50,0,6.7,-,Seimbang
+Lokal,Latosol,Lempung,6.5,20,18,18,100,30x40,1,150,200,0,0,5.2,N,Tambah Urea
+NK,Andosol,Lempung Berpasir,6.6,30,25,22,120,22x80,1,200,200,50,50,6.9,K,Tambah KCl
+Bisi 2,Latosol,Lempung,6.4,22,20,20,110,25x75,2,180,200,0,0,5.6,P,Tambah SP36
+Lokal,Regosol,Lempung,6.2,18,15,12,100,35x50,1,120,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,25,22,24,115,22x80,1,180,200,0,0,5.7,K,Tambah KCl
+Bisi 2,Andosol,Lempung,6.3,22,18,22,115,30x40,2,200,250,50,50,6.5,P,Tambah SP36
+Lokal,Latosol,Lempung,6.6,30,25,22,120,25x75,1,200,200,50,0,6.9,-,Seimbang
+Bisi 2,Latosol,Lempung,6.4,28,24,22,115,25x75,1,200,200,50,0,6.7,-,Seimbang
+Lokal,Latosol,Lempung,6.5,20,18,18,100,30x40,1,150,200,0,0,5.2,N,Tambah Urea
+NK,Andosol,Lempung Berpasir,6.6,30,25,22,120,22x80,1,200,200,50,50,6.9,K,Tambah KCl
+Bisi 2,Latosol,Lempung,6.4,22,20,20,110,25x75,2,180,200,0,0,5.6,P,Tambah SP36
+Lokal,Regosol,Lempung,6.2,18,15,12,100,35x50,1,120,150,0,0,4.9,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,25,22,24,115,22x80,1,180,200,0,0,5.7,K,Tambah KCl
+Bisi 2,Andosol,Lempung,6.3,22,18,22,115,30x40,2,200,250,50,50,6.5,P,Tambah SP36
+Lokal,Latosol,Lempung,6.6,30,25,22,120,25x75,1,200,200,50,0,6.9,-,Seimbang
+NK,Andosol,Lempung Berpasir,6.4,20,18,18,105,30x40,2,150,200,0,0,5.4,N,Tambah Urea
+Bisi 2,Latosol,Lempung,6.2,25,20,22,110,22x80,1,180,200,0,0,5.9,K,Tambah KCl
+Lokal,Regosol,Lempung,6.0,18,12,15,100,35x50,1,120,150,0,0,4.8,NPK,Tambah Urea+SP36+KCl
+NK,Latosol,Lempung Berpasir,6.5,28,22,24,115,25x75,1,200,200,50,0,6.7,P,Tambah SP36
+Bisi 2,Andosol,Lempung,6.3,22,18,20,110,30x40,2,180,200,0,0,5.6,N,Tambah Urea
+Pioneer Sweet Corn,Latosol,Lempung Berpasir,6.5,25,18,20,90,30x40,2,100,150,20,0,4.0,N,Tambah Urea
+Pertiwi Sweet Corn,Andosol,Lempung,6.3,20,15,18,85,25x50,1,80,120,0,0,3.5,P,Tambah SP36
+Pioneer Sweet Corn,Latosol,Lempung,6.4,22,18,22,95,30x40,2,100,150,20,0,4.2,K,Tambah KCl
+Pertiwi Sweet Corn,Andosol,Pasir,6.2,18,12,15,88,25x60,1,80,120,0,0,3.8,NPK,Tambah Urea+SP36+KCl
+Pioneer Sweet Corn,Latosol,Lempung Berpasir,6.5,24,20,18,92,30x40,2,100,150,20,0,4.1,N,Tambah Urea
+Pertiwi Sweet Corn,Andosol,Lempung,6.3,21,16,18,87,25x50,1,80,120,0,0,3.7,P,Tambah SP36
+Pioneer Sweet Corn,Latosol,Lempung,6.4,23,18,20,90,30x40,2,100,150,20,0,4.0,K,Tambah KCl
+Pertiwi Sweet Corn,Andosol,Pasir,6.2,19,14,16,85,25x50,1,80,120,0,0,3.6,NPK,Tambah Urea+SP36+KCl
+Pioneer Sweet Corn,Latosol,Lempung Berpasir,6.5,25,20,22,92,30x40,2,100,150,20,0,4.3,N,Tambah Urea
+Pertiwi Sweet Corn,Andosol,Lempung,6.3,22,18,20,88,25x50,1,80,120,0,0,3.8,P,Tambah SP36
+Pioneer Sweet Corn,Latosol,Lempung,6.4,23,18,21,90,30x40,2,100,150,20,0,4.0,K,Tambah KCl
+Pertiwi Sweet Corn,Andosol,Lempung Berpasir,6.2,20,16,18,87,25x50,1,80,120,0,0,3.7,NPK,Tambah Urea+SP36+KCl
+Pioneer Sweet Corn,Latosol,Lempung,6.5,24,20,22,92,30x40,2,100,150,20,0,4.1,N,Tambah Urea
+Pertiwi Sweet Corn,Andosol,Lempung,6.3,21,16,18,88,25x50,1,80,120,0,0,3.8,P,Tambah SP36
+Pioneer Sweet Corn,Latosol,Lempung Berpasir,6.4,23,18,21,90,30x40,2,100,150,20,0,4.0,K,Tambah KCl
+Pertiwi Sweet Corn,Andosol,Lempung,6.2,20,15,18,87,25x50,1,80,120,0,0,3.7,NPK,Tambah Urea+SP36+KCl
+Bisi Sweet Corn,Latosol,Lempung,6.5,25,20,22,92,30x40,2,100,150,20,0,4.2,N,Tambah Urea
+Pertiwi Sweet Corn,Andosol,Lempung,6.3,22,16,18,88,25x50,1,80,120,0,0,3.8,P,Tambah SP36
+Pioneer Sweet Corn,Latosol,Lempung Berpasir,6.4,23,18,21,90,30x40,2,100,150,20,0,4.1,K,Tambah KCl
+Pertiwi Sweet Corn,Andosol,Lempung,6.2,19,15,16,85,25x50,1,80,120,0,0,3.6,NPK,Tambah Urea+SP36+KCl
