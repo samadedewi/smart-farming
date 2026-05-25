@@ -10,7 +10,7 @@ import Topbar from './Topbar';
  *   </AppLayout>
  */
 const AppLayout = ({ children, isOnline = true, lastUpdate = null }) => {
-  const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(window.innerWidth < 768);
 
   return (
     <div style={{ display: 'flex', minHeight: '100vh', background: 'var(--bg-color, #f0f2f5)' }}>

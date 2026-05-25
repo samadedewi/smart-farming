@@ -42,7 +42,7 @@ export default function LandingPage() {
       
       {/* Navbar */}
       <div style={{ padding: '24px 48px', width: '100%', position: 'relative', zIndex: 10 }}>
-        <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <nav className="site-navbar">
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <div>
               <div style={{ fontWeight: 800, color: 'var(--primary-dark)', fontSize: '1.8rem', lineHeight: 1, letterSpacing: '-0.5px' }}>SiTani</div>

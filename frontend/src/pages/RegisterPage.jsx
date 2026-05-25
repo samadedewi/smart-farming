@@ -66,9 +66,9 @@ export default function RegisterPage() {
   };
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', background: 'var(--bg-color)' }}>
+    <div className="flex-stack" style={{ minHeight: '100vh', display: 'flex', background: 'var(--bg-color)' }}>
       {/* Left Panel - Branding */}
-      <div style={{
+      <div className="auth-left-panel" style={{
         flex: 1, background: 'linear-gradient(160deg, var(--primary-dark) 0%, #1a2e1a 100%)',
         display: 'flex', flexDirection: 'column', justifyContent: 'center',
         padding: '60px', color: 'white',
@@ -85,7 +85,7 @@ export default function RegisterPage() {
       </div>
 
       {/* Right Panel - Form */}
-      <div style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '60px' }}>
+      <div className="auth-right-panel" style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '60px' }}>
         <div style={{ width: '100%', maxWidth: '420px' }}>
           <h2 style={{ fontSize: '2rem', marginBottom: '8px' }}>Buat Akun Baru</h2>
           <p style={{ color: 'var(--text-muted)', marginBottom: '40px' }}>Mulai perjalanan pertanian cerdas Anda</p>

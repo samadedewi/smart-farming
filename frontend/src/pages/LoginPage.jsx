@@ -57,7 +57,7 @@ export default function LoginPage() {
       ))}
 
       {/* Main Card */}
-      <div style={{
+      <div className="auth-card-wrapper" style={{
         width: '100%',
         maxWidth: 1050,
         minHeight: 560,
@@ -70,7 +70,7 @@ export default function LoginPage() {
         zIndex: 1,
       }}>
         {/* Left Panel - Illustration with Organic Blob */}
-        <div style={{
+        <div className="auth-left-panel" style={{
           flex: '0 0 48%',
           position: 'relative',
           overflow: 'hidden',
@@ -172,7 +172,7 @@ export default function LoginPage() {
         </div>
 
         {/* Right Panel - Login Form */}
-        <div style={{
+        <div className="auth-right-panel" style={{
           flex: 1,
           display: 'flex',
           flexDirection: 'column',

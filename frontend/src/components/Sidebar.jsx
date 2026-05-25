@@ -62,7 +62,7 @@ const Sidebar = React.memo(({ collapsed, setCollapsed }) => {
         />
       )}
 
-      <aside style={{
+      <aside className={`app-sidebar ${!collapsed ? 'open' : ''}`} style={{
         width: collapsed ? '68px' : '220px',
         minHeight: '100vh',
         background: 'linear-gradient(180deg, #1B3A1B 0%, #2F4F2F 60%, #3a6b3a 100%)',
