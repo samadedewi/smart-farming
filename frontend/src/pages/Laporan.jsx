@@ -193,7 +193,7 @@ export default function Laporan() {
             <h2 style={{ color: 'white', fontSize: '1.4rem', margin: 0 }}>Laporan Kesuburan Tanah</h2>
             <p style={{ color: 'rgba(255,255,255,0.7)', margin: 0, fontSize: '0.85rem' }}>Pratinjau dokumen PDF</p>
           </div>
-          <div style={{ display: 'flex', gap: '12px' }}>
+          <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap', marginTop: '16px' }}>
             <button onClick={handlePrint} style={{
               padding: '10px 24px', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.4)',
               background: 'transparent', color: 'white', fontWeight: 600, cursor: 'pointer', fontSize: '0.85rem',
@@ -219,7 +219,7 @@ export default function Laporan() {
 
       {/* ═══════ PDF DOCUMENT ═══════ */}
       <div style={{ maxWidth: 900, margin: '32px auto', padding: '0 24px' }} className="print-area">
-        <div ref={reportRef} style={{
+        <div ref={reportRef} className="report-doc" style={{
           background: 'white',
           padding: '48px 56px',
           fontFamily: "'Inter', 'Segoe UI', sans-serif",

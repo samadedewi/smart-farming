@@ -70,7 +70,7 @@ export default function Riwayat() {
   return (
     <AppLayout isOnline={history.length > 0}>
       <div style={{ maxWidth: 1400, margin: '0 auto' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px' }}>
           <SectionHeader title="Riwayat Data Sensor" subtitle="Seluruh rekaman data dari perangkat IoT" />
           <input
             type="text"

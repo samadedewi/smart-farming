@@ -47,7 +47,7 @@ export default function Monitoring() {
   return (
     <AppLayout isOnline={latest !== null} lastUpdate={latest?.timestamp}>
       <div style={{ maxWidth: 1400, margin: '0 auto' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '32px' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', justifyContent: 'space-between', alignItems: 'center', marginBottom: '32px' }}>
           <SectionHeader title="Monitoring Detail" subtitle="Grafik perubahan setiap parameter sensor secara historis" />
           <button onClick={handleManualRefresh} disabled={refreshing} style={{
             display: 'flex', alignItems: 'center', gap: '6px', padding: '10px 18px',
@@ -82,7 +82,7 @@ export default function Monitoring() {
           </div>
         )}
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '16px' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 350px), 1fr))', gap: '16px' }}>
           <DetailChart data={Array.isArray(history) ? history : []} dataKey="ph" label="pH" color="#2F4F2F" domain={[4, 9]} />
           <DetailChart data={Array.isArray(history) ? history : []} dataKey="nitrogen" label="Nitrogen" unit="mg/kg" color="#4A7C4A" domain={[0, 200]} />
           <DetailChart data={Array.isArray(history) ? history : []} dataKey="phosphorus" label="Fosfor" unit="mg/kg" color="#F4A261" domain={[0, 150]} />
