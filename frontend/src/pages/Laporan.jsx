@@ -218,7 +218,7 @@ export default function Laporan() {
       </div>
 
       {/* ═══════ PDF DOCUMENT ═══════ */}
-      <div style={{ maxWidth: 900, margin: '32px auto', padding: '0 24px' }} className="print-area">
+      <div style={{ maxWidth: 900, margin: '32px auto', padding: '0 24px', overflowX: 'auto' }} className="print-area">
         <div ref={reportRef} className="report-doc" style={{
           background: 'white',
           padding: '48px 56px',
@@ -230,7 +230,7 @@ export default function Laporan() {
 
           {/* ── Document Header ── */}
           <div style={{ borderBottom: '3px solid #2F4F2F', paddingBottom: '24px', marginBottom: '32px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', justifyContent: 'space-between', alignItems: 'flex-start' }}>
               <div>
                 <h1 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#2F4F2F', margin: 0, lineHeight: 1.2 }}>
                   LAPORAN ANALISIS<br />KESUBURAN TANAH

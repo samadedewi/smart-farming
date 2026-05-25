@@ -25,6 +25,7 @@ const AppLayout = ({ children, isOnline = true, lastUpdate = null }) => {
         display: 'flex',
         flexDirection: 'column',
         minHeight: '100vh',
+        minWidth: 0,
       }}>
         {/* Topbar */}
         <Topbar isOnline={isOnline} lastUpdate={lastUpdate} sidebarCollapsed={sidebarCollapsed} setSidebarCollapsed={setSidebarCollapsed} />
@@ -35,6 +36,7 @@ const AppLayout = ({ children, isOnline = true, lastUpdate = null }) => {
           marginTop: '64px', /* topbar height */
           padding: '24px',
           overflow: 'auto',
+          minWidth: 0,
         }}>
           {children}
         </main>
