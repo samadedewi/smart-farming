@@ -51,7 +51,15 @@ export const NotificationProvider = ({ children }) => {
   }, []);
 
   // Filter sysNotifs based on user role
-  const roleSpecificNotifs = sysNotifs.filter(n => !n.targetRole || (user && n.targetRole === user.role));
+  const roleSpecificNotifs = sysNotifs.filter(n => {
+    if (!n.targetRole) return true;
+    if (!user) return false;
+    
+    if (n.targetRole === 'operator_user') {
+      return user.role !== 'manager_user';
+    }
+    return n.targetRole === user.role;
+  });
   
   // Merge and sort (newest first)
   const notifications = [...roleSpecificNotifs, ...sensorNotifs].sort((a, b) => {
