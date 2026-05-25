@@ -726,7 +726,7 @@ export default function Dashboard() {
                 <h4 style={{ margin: '0 0 16px 0', color: 'var(--primary-dark)', fontSize: '1rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '6px' }}>
                   1. Karakteristik Lokasi & Parameter Tanah (Dari Model ML)
                 </h4>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr 1fr', gap: '20px' }}>
+                <div className="grid-cols-4">
                   <div>
                     <label style={{ display: 'block', marginBottom: '8px', fontWeight: 600, fontSize: '0.85rem' }}>Kecamatan Lahan</label>
                     <select
@@ -861,7 +861,7 @@ export default function Dashboard() {
                 <h4 style={{ margin: '0 0 16px 0', color: 'var(--primary-dark)', fontSize: '1rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '6px' }}>
                   3. Informasi Siklus & Operasional Lahan
                 </h4>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px' }}>
+                <div className="grid-cols-2">
                   <div>
                     <label style={{ display: 'block', marginBottom: '8px', fontWeight: 600, fontSize: '0.85rem' }}>Luas Lahan (m²)</label>
                     <input
@@ -909,7 +909,7 @@ export default function Dashboard() {
                     </select>
                   </div>
 
-                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
+                  <div className="grid-cols-3">
                     <div>
                       <label style={{ display: 'block', marginBottom: '8px', fontWeight: 600, fontSize: '0.75rem' }}>N-Dasar (kg/ha)</label>
                       <input type="number" required value={lahanForm.n_dasar} onChange={(e) => setLahanForm({ ...lahanForm, n_dasar: e.target.value })} style={{ width: '100%', padding: '10px', borderRadius: '8px', border: '1px solid #cbd5e1' }} />
@@ -942,7 +942,7 @@ export default function Dashboard() {
 
         {/* Tab Navigation Menu */}
         {lahanList.length > 0 && (
-          <div style={{ display: 'flex', borderBottom: '2px solid rgba(255, 255, 255, 0.4)', marginBottom: '24px', gap: '8px' }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', borderBottom: '2px solid rgba(255, 255, 255, 0.4)', marginBottom: '24px', gap: '8px' }}>
             {[
               { id: 'dashboard', label: 'Monitoring Harian (Read-Only)', visible: true },
               { id: 'lahan', label: 'Manajemen Lahan & Varietas', visible: true },
@@ -1010,13 +1010,13 @@ export default function Dashboard() {
             </div>
 
             {/* Charts Row */}
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', marginBottom: '24px' }}>
+            <div className="grid-cols-2" style={{ marginBottom: '24px' }}>
               <PhChart data={sensorHistory} />
               <NPKChart data={sensorHistory} />
             </div>
 
             {/* ML ESTIMASI & PREDIKSI OUTPUT BOX (MODEL 3 & 4) */}
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px' }}>
+            <div className="grid-cols-2">
               <div className="card">
                 <h3>Hasil Estimasi Panen (Machine Learning)</h3>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', marginTop: '16px' }}>
@@ -1086,7 +1086,7 @@ export default function Dashboard() {
                 <h4 style={{ color: 'var(--primary-dark)', margin: '0 0 16px 0', fontSize: '1.1rem', borderBottom: '2px solid #f1f5f9', paddingBottom: '8px' }}>
                   Karakteristik & Status Lahan
                 </h4>
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', fontSize: '0.9rem' }}>
+                <div className="grid-cols-2" style={{ fontSize: '0.9rem' }}>
                   <div>
                     <span style={{ color: 'var(--text-muted)', display: 'block', fontSize: '0.75rem', fontWeight: 600 }}>NAMA LAHAN</span>
                     <strong style={{ fontSize: '1rem' }}>{activeLahan.nama_blok}</strong>

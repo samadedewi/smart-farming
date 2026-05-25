@@ -13,7 +13,7 @@ function BellIcon() {
   );
 }
 
-const Topbar = React.memo(({ isOnline = true, lastUpdate = null, sidebarCollapsed }) => {
+const Topbar = React.memo(({ isOnline = true, lastUpdate = null, sidebarCollapsed, setSidebarCollapsed }) => {
   const { notifications, removeNotification } = useNotifications();
   const [isNotifOpen, setIsNotifOpen] = useState(false);
   const notifRef = useRef(null);
@@ -31,7 +31,7 @@ const Topbar = React.memo(({ isOnline = true, lastUpdate = null, sidebarCollapse
   }, []);
 
   return (
-    <header style={{
+    <header className="app-topbar" style={{
       position: 'fixed',
       top: 0,
       left: sidebarCollapsed ? '68px' : '220px',
@@ -48,10 +48,27 @@ const Topbar = React.memo(({ isOnline = true, lastUpdate = null, sidebarCollapse
       transition: 'left 0.25s ease',
     }}>
 
-      {/* Left: Page title / brand */}
+      {/* Left: Hamburger, Page title / brand */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-        <div style={{ width: '1px', height: '24px', background: '#e0e0e0' }} />
-        <div>
+        {/* Hamburger Menu (visible on mobile only via CSS or just keep it for collapsed) */}
+        <button 
+          className="hamburger-btn"
+          onClick={() => setSidebarCollapsed(!sidebarCollapsed)}
+          style={{
+            background: 'none', border: 'none', cursor: 'pointer',
+            padding: '8px', color: 'var(--primary-dark)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center'
+          }}
+        >
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+
+        <div className="topbar-divider" style={{ width: '1px', height: '24px', background: '#e0e0e0' }} />
+        <div className="topbar-welcome">
           <div style={{ fontSize: '0.95rem', fontWeight: 700, color: 'var(--primary-dark, #2F4F2F)', lineHeight: 1.1 }}>
             Selamat Datang
           </div>

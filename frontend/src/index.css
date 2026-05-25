@@ -273,19 +273,46 @@ h4 { color: var(--primary-dark); font-weight: 600; }
     padding: 80px 24px 40px 24px !important;
   }
   
-  /* AppLayout & Sidebar */
+}
+
+/* ─── AppLayout Desktop ──────────────────────────────────────────── */
+.hamburger-btn {
+  display: none !important;
+}
+
+/* Responsive Grids */
+.grid-cols-2, .grid-cols-3, .grid-cols-4 {
+  display: grid;
+  gap: 20px;
+}
+.grid-cols-2 { grid-template-columns: 1fr 1fr; }
+.grid-cols-3 { grid-template-columns: 1fr 1fr 1fr; }
+.grid-cols-4 { grid-template-columns: 1fr 1fr 1fr 1fr; }
+
+@media (max-width: 768px) {
+  .grid-cols-2, .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: 1fr !important;
+  }
+  .hamburger-btn {
+    display: flex !important;
+  }
+  .topbar-welcome, .topbar-divider {
+    display: none !important;
+  }
   .app-sidebar {
     transform: translateX(var(--sidebar-translate, -100%)) !important;
     width: 260px !important;
     box-shadow: 4px 0 24px rgba(0,0,0,0.5) !important;
   }
-  .app-sidebar.open {
-    --sidebar-translate: 0;
-  }
   .app-main-area {
     margin-left: 0 !important;
   }
-  
+  .app-topbar {
+    left: 0 !important;
+  }
+  .app-sidebar.open {
+    --sidebar-translate: 0;
+  }
   /* Navbar */
   .site-navbar {
     flex-direction: column;

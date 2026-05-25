@@ -27,7 +27,7 @@ const AppLayout = ({ children, isOnline = true, lastUpdate = null }) => {
         minHeight: '100vh',
       }}>
         {/* Topbar */}
-        <Topbar isOnline={isOnline} lastUpdate={lastUpdate} sidebarCollapsed={sidebarCollapsed} />
+        <Topbar isOnline={isOnline} lastUpdate={lastUpdate} sidebarCollapsed={sidebarCollapsed} setSidebarCollapsed={setSidebarCollapsed} />
 
         {/* Page content */}
         <main style={{
