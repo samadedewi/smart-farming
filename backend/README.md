@@ -1,4 +1,4 @@
-# SmartAgri IoT — Backend (Express.js)
+# SiTani IoT — Backend (Express.js)
 
 Backend REST API untuk menerima data sensor dari ESP32 dan menyajikannya ke dashboard React.
 

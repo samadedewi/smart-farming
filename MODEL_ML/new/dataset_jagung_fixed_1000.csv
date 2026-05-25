@@ -1,0 +1,1001 @@
+id,kecamatan,varietas,jenis_tanah,tekstur,luas_lahan,curah_hujan,suhu,total_n_dasar,total_p_dasar,total_k_dasar,umur_hst,fase_tanaman,ph,n_ppm,p_ppm,k_ppm,status_hara,rekomendasi_tindakan,dosis_urea_susulan,dosis_sp36_susulan,dosis_kcl_susulan,total_umur_panen,hasil_panen_estimasi,sisa_hari_panen
+1,Sonder,NK Perkasa,Andosol,Lempung,2.8,170,31,0.0,0.0,0.0,52,Vegetatif Aktif,6.8,14,13,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,58
+2,Kauditan,Pertiwi,Andosol,Pasir,0.8,183,27,0.0,0.0,0.0,61,Generatif,6.7,23,17,21,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,44
+3,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.5,245,28,15.0,15.0,15.0,52,Vegetatif Aktif,6.6,28,14,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,38
+4,Sonder,NK Perkasa,Regosol,Pasir,2.2,199,31,38.0,15.0,15.0,57,Generatif,6.5,35,14,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,53
+5,Airmadidi,NK Perkasa,Andosol,Pasir,1.3,236,30,0.0,0.0,0.0,77,Generatif,6.3,11,10,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,33
+6,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,2.2,244,31,23.0,0.0,0.0,41,Vegetatif Aktif,5.6,26,11,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.0,69
+7,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,0.9,201,29,15.0,15.0,15.0,63,Generatif,6.2,19,26,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,52
+8,Tondano Utara,NK Perkasa,Regosol,Pasir,1.3,166,27,23.0,0.0,0.0,43,Vegetatif Aktif,5.5,20,13,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,67
+9,Langowan,Bisi 2,Regosol,Lempung Berpasir,1.4,219,28,0.0,0.0,0.0,19,Vegetatif Awal,6.4,19,17,20,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.0,96
+10,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.0,216,27,0.0,0.0,0.0,42,Vegetatif Aktif,5.5,16,16,19,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,73
+11,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.6,160,28,38.0,15.0,15.0,32,Vegetatif Aktif,6.1,30,25,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,83
+12,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.5,241,29,0.0,0.0,0.0,65,Generatif,5.9,20,19,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,50
+13,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.8,204,29,15.0,15.0,15.0,21,Vegetatif Awal,6.5,23,17,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,94
+14,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,0.5,201,28,15.0,15.0,15.0,78,Generatif,6.0,29,15,23,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,32
+15,Tondano Selatan,Bisi 2,Regosol,Pasir,0.8,248,27,15.0,15.0,15.0,22,Vegetatif Awal,6.5,22,26,25,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,93
+16,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,1.7,160,30,23.0,0.0,0.0,81,Generatif,6.5,30,17,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,29
+17,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.7,185,30,0.0,0.0,0.0,22,Vegetatif Awal,6.2,20,9,10,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,68
+18,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.0,220,29,15.0,15.0,15.0,78,Generatif,6.1,16,24,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,12
+19,Tondano Utara,Pertiwi,Andosol,Lempung,1.9,188,29,23.0,0.0,0.0,78,Generatif,6.2,21,11,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,27
+20,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,2.4,209,30,23.0,0.0,0.0,29,Vegetatif Aktif,5.6,29,13,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,81
+21,Tondano Utara,Pertiwi,Andosol,Pasir,1.0,236,28,15.0,15.0,15.0,54,Vegetatif Aktif,6.0,29,23,19,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,51
+22,Sonder,NK Perkasa,Andosol,Lempung,1.2,193,31,15.0,15.0,15.0,75,Generatif,6.3,18,18,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,35
+23,Kauditan,Bisi 2,Regosol,Pasir,2.3,218,28,0.0,0.0,0.0,52,Vegetatif Aktif,5.9,10,10,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.0,63
+24,Tombulu,Pertiwi,Andosol,Pasir,1.2,215,28,15.0,15.0,15.0,76,Generatif,6.3,24,15,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.6,29
+25,Kauditan,Bisi 2,Regosol,Pasir,0.9,220,27,15.0,15.0,15.0,74,Generatif,5.6,25,21,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,41
+26,Tondano Utara,Bisi 2,Latosol,Lempung,2.1,223,26,23.0,0.0,0.0,16,Vegetatif Awal,6.7,17,16,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.9,99
+27,Langowan,Bisi 2,Regosol,Pasir,2.4,209,27,15.0,15.0,15.0,70,Generatif,5.8,17,25,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.8,45
+28,Airmadidi,NK Perkasa,Regosol,Pasir,1.8,242,28,15.0,15.0,15.0,27,Vegetatif Aktif,6.1,21,21,23,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,83
+29,Langowan,Bisi 2,Regosol,Pasir,1.8,161,26,0.0,0.0,0.0,71,Generatif,5.9,17,20,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.1,44
+30,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.7,215,27,15.0,15.0,15.0,39,Vegetatif Aktif,5.5,23,14,25,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,71
+31,Airmadidi,Bisi 2,Regosol,Pasir,1.1,161,26,15.0,15.0,15.0,23,Vegetatif Awal,5.7,28,16,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,92
+32,Tondano Utara,Pertiwi,Andosol,Lempung,2.4,165,29,23.0,0.0,0.0,25,Vegetatif Awal,6.0,23,14,11,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,80
+33,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,0.7,239,29,38.0,15.0,15.0,19,Vegetatif Awal,6.0,30,19,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,71
+34,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,3.0,190,26,38.0,15.0,15.0,79,Generatif,6.3,28,16,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,31
+35,Kauditan,Pertiwi,Andosol,Lempung,2.1,225,28,23.0,0.0,0.0,32,Vegetatif Aktif,5.9,24,20,15,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,73
+36,Tondano Utara,Pertiwi,Andosol,Lempung,2.6,175,26,0.0,0.0,0.0,55,Vegetatif Aktif,6.6,16,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.8,50
+37,Tondano Utara,Pertiwi,Andosol,Lempung,1.9,238,28,0.0,0.0,0.0,23,Vegetatif Awal,6.4,13,13,22,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.9,82
+38,Tondano Utara,NK Perkasa,Regosol,Pasir,1.9,204,31,15.0,15.0,15.0,43,Vegetatif Aktif,5.7,14,16,25,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,67
+39,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,195,27,23.0,0.0,0.0,83,Generatif,6.4,29,20,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,7
+40,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.3,215,29,15.0,15.0,15.0,18,Vegetatif Awal,6.7,22,26,17,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,72
+41,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,216,26,15.0,15.0,15.0,29,Vegetatif Aktif,5.6,25,16,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,61
+42,Tondano Utara,Pertiwi,Andosol,Lempung,3.0,165,30,23.0,0.0,0.0,28,Vegetatif Aktif,5.8,26,14,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.6,77
+43,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,2.1,162,28,15.0,15.0,15.0,23,Vegetatif Awal,6.3,22,24,24,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,92
+44,Tomohon,NK Perkasa,Andosol,Lempung,0.6,234,27,0.0,0.0,0.0,16,Vegetatif Awal,5.7,10,19,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.8,94
+45,Tomohon,NK Perkasa,Andosol,Lempung,1.3,243,26,0.0,0.0,0.0,45,Vegetatif Aktif,6.6,14,13,16,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.7,65
+46,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.8,194,30,15.0,15.0,15.0,53,Vegetatif Aktif,5.7,26,18,24,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,37
+47,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.8,180,31,0.0,0.0,0.0,57,Generatif,6.1,13,10,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,4.9,33
+48,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,2.8,198,30,15.0,15.0,15.0,60,Generatif,6.1,19,21,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,50
+49,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.4,246,31,38.0,15.0,15.0,40,Vegetatif Aktif,6.8,29,21,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,75
+50,Sonder,NK Perkasa,Regosol,Pasir,1.1,196,29,38.0,15.0,15.0,25,Vegetatif Awal,6.2,31,22,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,85
+51,Langowan,Bisi 2,Regosol,Lempung Berpasir,2.1,168,27,38.0,15.0,15.0,17,Vegetatif Awal,6.2,31,21,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,98
+52,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,0.7,155,30,15.0,15.0,15.0,16,Vegetatif Awal,5.8,17,21,21,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.8,94
+53,Langowan,Bisi 2,Regosol,Pasir,2.8,156,28,0.0,0.0,0.0,74,Generatif,5.5,18,8,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,41
+54,Tomohon,NK Perkasa,Regosol,Pasir,1.1,163,28,0.0,0.0,0.0,79,Generatif,6.1,13,16,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.1,31
+55,Tondano Selatan,Pertiwi,Andosol,Pasir,2.1,182,27,15.0,15.0,15.0,19,Vegetatif Awal,6.0,19,16,23,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.7,86
+56,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,2.7,170,28,38.0,15.0,15.0,26,Vegetatif Aktif,6.8,24,23,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,84
+57,Langowan,Bisi 2,Regosol,Lempung Berpasir,1.9,179,30,23.0,0.0,0.0,72,Generatif,6.1,29,18,20,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,43
+58,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.9,159,30,23.0,0.0,0.0,74,Generatif,6.6,28,20,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,16
+59,Kauditan,Bisi 2,Regosol,Pasir,2.8,177,31,23.0,0.0,0.0,81,Generatif,6.4,27,17,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,34
+60,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,1.2,175,26,0.0,0.0,0.0,85,Generatif,6.2,20,19,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,25
+61,Sonder,NK Perkasa,Andosol,Lempung,1.1,163,26,38.0,15.0,15.0,43,Vegetatif Aktif,5.8,30,20,19,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,67
+62,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.0,161,28,38.0,15.0,15.0,47,Vegetatif Aktif,6.5,24,20,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,63
+63,Kauditan,Bisi 2,Regosol,Lempung Berpasir,0.8,194,29,23.0,0.0,0.0,74,Generatif,5.7,23,18,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,41
+64,Tondano Utara,Bisi 2,Latosol,Lempung,0.6,243,28,23.0,0.0,0.0,20,Vegetatif Awal,6.3,20,13,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,95
+65,Tombulu,Pertiwi,Andosol,Lempung,1.3,198,26,0.0,0.0,0.0,47,Vegetatif Aktif,5.9,21,11,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.9,58
+66,Tomohon,NK Perkasa,Regosol,Pasir,2.1,155,31,15.0,15.0,15.0,69,Generatif,6.3,20,17,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,41
+67,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.2,228,28,0.0,0.0,0.0,23,Vegetatif Awal,6.3,16,20,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,4.9,67
+68,Sonder,NK Perkasa,Regosol,Pasir,1.8,220,26,38.0,15.0,15.0,52,Vegetatif Aktif,6.8,21,18,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,58
+69,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,168,28,38.0,15.0,15.0,49,Vegetatif Aktif,6.0,25,19,16,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,41
+70,Tombulu,Pertiwi,Andosol,Lempung,2.2,168,31,23.0,0.0,0.0,31,Vegetatif Aktif,6.0,26,19,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,74
+71,Sonder,Bisi 2,Regosol,Pasir,2.1,157,30,38.0,15.0,15.0,57,Generatif,6.6,30,19,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,58
+72,Langowan,NK Perkasa,Regosol,Pasir,2.5,154,27,15.0,15.0,15.0,74,Generatif,6.6,14,14,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,36
+73,Kauditan,Pertiwi,Andosol,Lempung,1.4,199,30,23.0,0.0,0.0,69,Generatif,5.8,23,17,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,36
+74,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.7,197,27,38.0,15.0,15.0,48,Vegetatif Aktif,6.4,24,26,26,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,42
+75,Sonder,Bisi 2,Regosol,Lempung Berpasir,2.6,223,27,0.0,0.0,0.0,60,Generatif,6.8,14,12,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,55
+76,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,1.1,230,28,23.0,0.0,0.0,18,Vegetatif Awal,6.4,29,17,16,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,72
+77,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.9,170,31,38.0,15.0,15.0,10,Vegetatif Awal,6.5,28,15,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,80
+78,Tomohon,NK Perkasa,Regosol,Pasir,2.2,203,29,23.0,0.0,0.0,58,Generatif,6.4,31,8,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,52
+79,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.9,189,28,38.0,15.0,15.0,28,Vegetatif Aktif,5.8,31,23,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,62
+80,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.8,174,26,38.0,15.0,15.0,45,Vegetatif Aktif,6.4,22,14,25,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,6.8,45
+81,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.9,243,29,0.0,0.0,0.0,14,Vegetatif Awal,6.7,14,17,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.0,76
+82,Tondano Selatan,NK Perkasa,Regosol,Pasir,2.8,207,29,0.0,0.0,0.0,67,Generatif,5.6,23,14,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.0,43
+83,Tondano Utara,Bisi 2,Regosol,Pasir,2.7,248,30,0.0,0.0,0.0,49,Vegetatif Aktif,6.2,14,16,16,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,66
+84,Tomohon,NK Perkasa,Andosol,Pasir,1.1,152,27,15.0,15.0,15.0,58,Generatif,6.0,16,24,26,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,52
+85,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.7,180,27,23.0,0.0,0.0,71,Generatif,5.5,26,17,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,19
+86,Tondano Selatan,Pertiwi,Andosol,Lempung,1.5,184,29,0.0,0.0,0.0,77,Generatif,6.5,15,20,18,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,28
+87,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,3.0,178,29,38.0,15.0,15.0,68,Generatif,5.7,21,16,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,22
+88,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,1.5,172,26,0.0,0.0,0.0,19,Vegetatif Awal,6.2,24,9,14,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,91
+89,Tomohon,NK Perkasa,Andosol,Lempung,2.8,186,28,15.0,15.0,15.0,60,Generatif,6.7,25,14,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.6,50
+90,Tondano Utara,Pertiwi,Andosol,Lempung,1.4,240,29,0.0,0.0,0.0,20,Vegetatif Awal,5.6,14,8,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.7,85
+91,Tombulu,Pertiwi,Andosol,Pasir,1.0,181,28,15.0,15.0,15.0,18,Vegetatif Awal,5.8,24,20,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,87
+92,Langowan,NK Perkasa,Regosol,Lempung Berpasir,1.6,168,29,15.0,15.0,15.0,28,Vegetatif Aktif,6.6,20,18,14,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,82
+93,Tombulu,Bisi 2,Regosol,Pasir,0.9,152,31,15.0,15.0,15.0,33,Vegetatif Aktif,6.2,26,25,26,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,82
+94,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.4,175,29,15.0,15.0,15.0,24,Vegetatif Awal,6.4,19,22,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.9,91
+95,Tondano Utara,Pertiwi,Andosol,Pasir,2.8,223,28,23.0,0.0,0.0,43,Vegetatif Aktif,6.1,31,13,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.6,62
+96,Tondano Utara,Pertiwi,Andosol,Lempung,1.5,198,29,0.0,0.0,0.0,47,Vegetatif Aktif,5.9,18,16,16,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,58
+97,Tombulu,Pertiwi,Andosol,Pasir,2.4,181,26,0.0,0.0,0.0,28,Vegetatif Aktif,5.6,18,9,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.9,77
+98,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,156,30,0.0,0.0,0.0,42,Vegetatif Aktif,6.1,13,11,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,48
+99,Tombulu,Pertiwi,Andosol,Pasir,2.8,195,30,15.0,15.0,15.0,47,Vegetatif Aktif,6.3,29,22,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,58
+100,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.2,234,31,15.0,15.0,15.0,17,Vegetatif Awal,6.4,23,20,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,73
+101,Tondano Utara,Bisi 2,Latosol,Lempung,1.0,237,27,0.0,0.0,0.0,43,Vegetatif Aktif,5.8,17,13,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,4.9,72
+102,Tondano Selatan,Pertiwi,Andosol,Lempung,0.9,195,28,15.0,15.0,15.0,40,Vegetatif Aktif,5.5,18,22,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,65
+103,Kauditan,Bisi 2,Regosol,Lempung Berpasir,2.7,240,28,15.0,15.0,15.0,52,Vegetatif Aktif,5.6,22,19,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,63
+104,Tombulu,Pertiwi,Andosol,Pasir,1.6,228,28,23.0,0.0,0.0,62,Generatif,6.6,29,20,19,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,43
+105,Airmadidi,Bisi 2,Regosol,Pasir,2.3,215,26,0.0,0.0,0.0,80,Generatif,6.8,23,15,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,35
+106,Tondano Utara,Pertiwi,Andosol,Pasir,1.1,244,29,23.0,0.0,0.0,57,Generatif,6.4,19,20,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,48
+107,Tondano Selatan,Bisi 2,Latosol,Lempung,2.0,230,30,23.0,0.0,0.0,48,Vegetatif Aktif,5.9,24,16,12,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,67
+108,Tomohon,NK Perkasa,Andosol,Lempung,0.8,206,31,0.0,0.0,0.0,73,Generatif,6.6,24,8,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,37
+109,Airmadidi,NK Perkasa,Andosol,Pasir,0.6,179,27,15.0,15.0,15.0,41,Vegetatif Aktif,6.0,27,21,14,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,69
+110,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,2.1,199,30,23.0,0.0,0.0,82,Generatif,6.0,30,17,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,28
+111,Tondano Selatan,Bisi 2,Latosol,Lempung,2.8,160,29,15.0,15.0,15.0,63,Generatif,6.0,14,15,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,52
+112,Tondano Selatan,NK Perkasa,Regosol,Pasir,2.0,237,27,0.0,0.0,0.0,36,Vegetatif Aktif,5.6,14,11,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.0,74
+113,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.3,188,30,15.0,15.0,15.0,82,Generatif,5.5,28,25,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,8
+114,Sonder,NK Perkasa,Andosol,Pasir,1.3,222,27,23.0,0.0,0.0,10,Vegetatif Awal,6.6,21,13,17,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,100
+115,Sonder,Bisi 2,Regosol,Pasir,2.4,191,28,0.0,0.0,0.0,62,Generatif,5.7,11,8,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.1,53
+116,Airmadidi,NK Perkasa,Regosol,Pasir,1.0,210,29,15.0,15.0,15.0,10,Vegetatif Awal,6.3,14,25,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.0,100
+117,Kauditan,Pertiwi,Andosol,Lempung,2.9,237,30,38.0,15.0,15.0,33,Vegetatif Aktif,6.3,29,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,7.6,72
+118,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.9,186,31,0.0,0.0,0.0,81,Generatif,5.7,19,13,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,34
+119,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.5,247,27,0.0,0.0,0.0,64,Generatif,5.8,25,18,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,51
+120,Tondano Selatan,Pertiwi,Andosol,Pasir,0.9,218,28,38.0,15.0,15.0,59,Generatif,6.3,22,19,24,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,46
+121,Kauditan,Bisi 2,Regosol,Pasir,0.9,209,27,0.0,0.0,0.0,85,Generatif,6.0,24,13,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.1,30
+122,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,215,28,0.0,0.0,0.0,25,Vegetatif Awal,5.7,21,12,10,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,65
+123,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,0.7,227,29,0.0,0.0,0.0,35,Vegetatif Aktif,6.7,14,9,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,80
+124,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.8,174,31,23.0,0.0,0.0,29,Vegetatif Aktif,6.0,26,17,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,86
+125,Sonder,NK Perkasa,Andosol,Lempung,2.6,225,31,38.0,15.0,15.0,50,Vegetatif Aktif,6.6,28,24,17,Seimbang,Pertahankan Kondisi,0,0,0,110,7.5,60
+126,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.9,211,26,15.0,15.0,15.0,70,Generatif,6.0,17,18,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,20
+127,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.5,204,28,0.0,0.0,0.0,14,Vegetatif Awal,5.8,18,17,14,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,4.9,76
+128,Airmadidi,NK Perkasa,Andosol,Pasir,2.2,230,28,38.0,15.0,15.0,76,Generatif,6.6,24,19,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,7.7,34
+129,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.5,195,27,15.0,15.0,15.0,20,Vegetatif Awal,5.9,17,20,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,6.0,70
+130,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,0.7,234,26,0.0,0.0,0.0,52,Vegetatif Aktif,5.9,11,18,13,Seimbang,Pertahankan Kondisi,0,0,0,90,5.1,38
+131,Tondano Selatan,Bisi 2,Latosol,Lempung,2.1,185,29,15.0,15.0,15.0,25,Vegetatif Awal,6.4,27,20,14,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,90
+132,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.0,208,28,15.0,15.0,15.0,53,Vegetatif Aktif,5.5,21,26,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,62
+133,Kauditan,Pertiwi,Andosol,Lempung,0.6,248,31,23.0,0.0,0.0,67,Generatif,5.8,29,20,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,38
+134,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.6,190,28,38.0,15.0,15.0,62,Generatif,5.9,26,26,26,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,28
+135,Kauditan,Bisi 2,Regosol,Pasir,0.9,162,31,0.0,0.0,0.0,46,Vegetatif Aktif,6.6,23,16,18,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,69
+136,Kauditan,Pertiwi,Andosol,Pasir,2.5,150,28,0.0,0.0,0.0,18,Vegetatif Awal,5.5,10,18,22,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.8,87
+137,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.2,176,27,38.0,15.0,15.0,77,Generatif,6.4,25,21,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,38
+138,Langowan,NK Perkasa,Regosol,Lempung Berpasir,1.9,236,26,23.0,0.0,0.0,40,Vegetatif Aktif,6.4,23,12,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.0,70
+139,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.3,203,29,0.0,0.0,0.0,27,Vegetatif Aktif,6.5,17,14,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,88
+140,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.5,211,26,15.0,15.0,15.0,66,Generatif,6.0,19,17,18,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,24
+141,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,206,31,23.0,0.0,0.0,29,Vegetatif Aktif,6.6,16,12,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,61
+142,Tondano Selatan,Pertiwi,Andosol,Lempung,0.8,191,30,15.0,15.0,15.0,21,Vegetatif Awal,6.6,25,14,14,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,84
+143,Langowan,Bisi 2,Regosol,Pasir,2.5,216,29,23.0,0.0,0.0,35,Vegetatif Aktif,6.2,22,15,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,80
+144,Tomohon,NK Perkasa,Regosol,Pasir,2.7,173,27,38.0,15.0,15.0,19,Vegetatif Awal,6.5,27,25,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,91
+145,Langowan,Bisi 2,Regosol,Pasir,0.7,244,30,38.0,15.0,15.0,68,Generatif,6.3,31,17,19,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,47
+146,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.9,213,31,38.0,15.0,15.0,25,Vegetatif Awal,6.7,25,17,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,85
+147,Langowan,Bisi 2,Regosol,Pasir,2.9,243,28,38.0,15.0,15.0,75,Generatif,5.9,27,18,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,40
+148,Tombulu,NK Perkasa,Regosol,Pasir,0.6,226,27,38.0,15.0,15.0,49,Vegetatif Aktif,6.2,32,20,24,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,61
+149,Kauditan,Pertiwi,Andosol,Lempung,2.3,166,29,23.0,0.0,0.0,41,Vegetatif Aktif,6.1,22,14,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.7,64
+150,Kauditan,NK Perkasa,Regosol,Pasir,1.9,155,27,15.0,15.0,15.0,73,Generatif,6.1,27,25,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,37
+151,Kauditan,Pertiwi,Andosol,Lempung,1.1,237,29,15.0,15.0,15.0,17,Vegetatif Awal,6.1,25,17,18,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,88
+152,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,198,27,23.0,0.0,0.0,60,Generatif,6.0,17,12,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,30
+153,Tondano Selatan,Bisi 2,Latosol,Lempung,2.5,207,30,15.0,15.0,15.0,71,Generatif,6.0,25,20,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,44
+154,Tomohon,NK Perkasa,Andosol,Pasir,2.2,245,26,15.0,15.0,15.0,81,Generatif,5.6,27,15,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,29
+155,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.9,248,31,15.0,15.0,15.0,45,Vegetatif Aktif,6.6,23,23,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,45
+156,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.5,182,27,23.0,0.0,0.0,48,Vegetatif Aktif,6.4,18,13,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,42
+157,Tombulu,Bisi 2,Regosol,Pasir,0.8,222,29,38.0,15.0,15.0,50,Vegetatif Aktif,6.4,35,25,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,65
+158,Kauditan,NK Perkasa,Regosol,Pasir,2.6,195,29,15.0,15.0,15.0,13,Vegetatif Awal,6.6,19,26,22,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.9,97
+159,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.1,214,31,0.0,0.0,0.0,64,Generatif,6.4,16,12,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,4.9,26
+160,Langowan,NK Perkasa,Regosol,Lempung Berpasir,2.8,178,27,15.0,15.0,15.0,16,Vegetatif Awal,6.7,16,15,21,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.8,94
+161,Tomohon,Bisi 2,Regosol,Lempung Berpasir,1.7,192,29,0.0,0.0,0.0,35,Vegetatif Aktif,5.8,13,8,17,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,4.9,80
+162,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.6,192,26,38.0,15.0,15.0,19,Vegetatif Awal,6.2,25,17,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,96
+163,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,0.9,192,30,38.0,15.0,15.0,50,Vegetatif Aktif,5.7,24,26,23,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,40
+164,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.8,185,28,23.0,0.0,0.0,49,Vegetatif Aktif,6.7,18,17,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,41
+165,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.0,223,26,0.0,0.0,0.0,24,Vegetatif Awal,5.8,14,8,12,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.1,66
+166,Langowan,Pertiwi,Andosol,Lempung,0.8,180,30,38.0,15.0,15.0,27,Vegetatif Aktif,6.7,36,22,22,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,78
+167,Sonder,NK Perkasa,Andosol,Lempung,2.3,195,29,15.0,15.0,15.0,72,Generatif,5.9,26,20,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.6,38
+168,Tomohon,NK Perkasa,Andosol,Pasir,0.8,209,27,15.0,15.0,15.0,26,Vegetatif Aktif,6.4,20,23,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,84
+169,Tondano Selatan,Bisi 2,Latosol,Lempung,1.4,233,29,38.0,15.0,15.0,52,Vegetatif Aktif,5.5,25,19,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,63
+170,Kauditan,Pertiwi,Andosol,Lempung,1.1,150,29,15.0,15.0,15.0,55,Vegetatif Aktif,6.2,26,26,16,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,50
+171,Tondano Utara,Bisi 2,Latosol,Lempung,2.2,204,27,23.0,0.0,0.0,52,Vegetatif Aktif,6.7,31,17,12,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,63
+172,Tondano Utara,Bisi 2,Latosol,Lempung,3.0,249,27,0.0,0.0,0.0,23,Vegetatif Awal,6.7,14,20,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.0,92
+173,Airmadidi,Bisi 2,Regosol,Pasir,1.1,153,28,0.0,0.0,0.0,46,Vegetatif Aktif,6.7,24,20,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,69
+174,Tomohon,NK Perkasa,Regosol,Pasir,2.8,170,29,15.0,15.0,15.0,17,Vegetatif Awal,5.8,20,17,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,93
+175,Kauditan,Bisi 2,Regosol,Lempung Berpasir,0.8,161,30,0.0,0.0,0.0,52,Vegetatif Aktif,6.8,24,11,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,63
+176,Sonder,NK Perkasa,Andosol,Lempung,2.8,188,26,38.0,15.0,15.0,84,Generatif,6.1,22,14,23,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,26
+177,Langowan,Bisi 2,Regosol,Lempung Berpasir,1.7,165,31,38.0,15.0,15.0,83,Generatif,6.3,34,17,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,32
+178,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.3,173,31,38.0,15.0,15.0,34,Vegetatif Aktif,6.0,32,20,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,56
+179,Tombulu,Bisi 2,Regosol,Pasir,1.6,246,26,0.0,0.0,0.0,11,Vegetatif Awal,6.3,23,16,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,104
+180,Langowan,NK Perkasa,Regosol,Pasir,1.0,205,31,15.0,15.0,15.0,14,Vegetatif Awal,6.0,27,17,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,96
+181,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,203,29,38.0,15.0,15.0,23,Vegetatif Awal,5.6,29,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,67
+182,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,2.9,242,28,0.0,0.0,0.0,79,Generatif,6.0,17,20,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.0,31
+183,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.9,225,29,38.0,15.0,15.0,28,Vegetatif Aktif,5.7,21,20,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,62
+184,Tondano Selatan,Pertiwi,Andosol,Lempung,0.9,197,27,0.0,0.0,0.0,67,Generatif,6.6,21,8,18,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,38
+185,Kauditan,Pertiwi,Andosol,Pasir,2.4,225,30,38.0,15.0,15.0,68,Generatif,6.1,30,14,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.6,37
+186,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.5,173,27,15.0,15.0,15.0,53,Vegetatif Aktif,6.5,18,19,24,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,37
+187,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.2,151,31,0.0,0.0,0.0,60,Generatif,5.6,18,8,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.1,30
+188,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,0.9,234,28,23.0,0.0,0.0,23,Vegetatif Awal,6.0,19,20,14,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.9,87
+189,Tombulu,Bisi 2,Regosol,Pasir,1.6,150,31,38.0,15.0,15.0,63,Generatif,6.4,29,24,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,52
+190,Langowan,Pertiwi,Andosol,Pasir,1.0,217,29,0.0,0.0,0.0,26,Vegetatif Aktif,6.6,22,15,10,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,79
+191,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.2,239,31,0.0,0.0,0.0,19,Vegetatif Awal,6.6,22,20,10,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,71
+192,Tondano Selatan,Pertiwi,Andosol,Lempung,2.3,201,28,0.0,0.0,0.0,66,Generatif,6.5,16,17,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,39
+193,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.3,241,29,38.0,15.0,15.0,59,Generatif,6.2,36,24,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.8,31
+194,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.3,220,29,23.0,0.0,0.0,62,Generatif,6.6,31,10,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,48
+195,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,150,27,38.0,15.0,15.0,38,Vegetatif Aktif,5.6,31,23,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,52
+196,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.5,154,31,0.0,0.0,0.0,78,Generatif,6.7,20,10,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.1,12
+197,Langowan,Bisi 2,Regosol,Lempung Berpasir,0.8,220,28,23.0,0.0,0.0,63,Generatif,5.8,25,10,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,52
+198,Tondano Selatan,Pertiwi,Andosol,Lempung,1.3,193,31,0.0,0.0,0.0,71,Generatif,6.7,22,8,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.7,34
+199,Kauditan,Bisi 2,Regosol,Pasir,2.7,197,28,38.0,15.0,15.0,22,Vegetatif Awal,5.8,29,23,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,93
+200,Tombulu,NK Perkasa,Regosol,Pasir,3.0,224,31,38.0,15.0,15.0,43,Vegetatif Aktif,6.3,33,23,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,67
+201,Tondano Selatan,Bisi 2,Regosol,Pasir,1.9,235,31,23.0,0.0,0.0,29,Vegetatif Aktif,6.7,30,16,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,86
+202,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.6,178,30,0.0,0.0,0.0,10,Vegetatif Awal,6.6,19,19,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.1,80
+203,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,0.9,173,27,0.0,0.0,0.0,46,Vegetatif Aktif,5.8,14,16,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.1,69
+204,Tondano Selatan,Bisi 2,Latosol,Lempung,2.3,225,31,15.0,15.0,15.0,31,Vegetatif Aktif,5.5,26,25,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,84
+205,Langowan,Pertiwi,Andosol,Pasir,2.7,160,30,15.0,15.0,15.0,13,Vegetatif Awal,6.0,19,25,20,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.7,92
+206,Langowan,NK Perkasa,Regosol,Lempung Berpasir,0.6,152,26,23.0,0.0,0.0,75,Generatif,6.3,27,18,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,35
+207,Langowan,Pioneer Sweet Corn,Latosol,Lempung,1.1,191,31,15.0,15.0,15.0,18,Vegetatif Awal,5.5,26,16,14,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,72
+208,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.7,240,31,0.0,0.0,0.0,84,Generatif,5.9,15,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,6
+209,Sonder,Pioneer Sweet Corn,Latosol,Lempung,3.0,214,31,38.0,15.0,15.0,75,Generatif,5.9,34,20,18,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,15
+210,Kauditan,Pertiwi,Andosol,Lempung,0.8,225,31,38.0,15.0,15.0,15,Vegetatif Awal,6.6,27,23,19,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,90
+211,Tondano Selatan,Pertiwi,Andosol,Pasir,1.2,189,31,38.0,15.0,15.0,29,Vegetatif Aktif,6.6,31,25,24,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,76
+212,Tombulu,NK Perkasa,Regosol,Pasir,1.9,211,31,15.0,15.0,15.0,63,Generatif,6.4,15,20,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,47
+213,Airmadidi,NK Perkasa,Andosol,Lempung,1.0,174,26,0.0,0.0,0.0,63,Generatif,5.7,10,16,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,47
+214,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,1.9,152,28,15.0,15.0,15.0,53,Vegetatif Aktif,5.6,26,24,24,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,57
+215,Tondano Selatan,Pertiwi,Andosol,Pasir,1.4,227,31,15.0,15.0,15.0,74,Generatif,5.7,22,18,26,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,31
+216,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,0.6,198,26,15.0,15.0,15.0,85,Generatif,6.6,23,19,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,25
+217,Tomohon,NK Perkasa,Andosol,Lempung,2.8,178,28,38.0,15.0,15.0,56,Generatif,6.1,29,22,22,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,54
+218,Kauditan,Pertiwi,Andosol,Pasir,2.6,201,27,0.0,0.0,0.0,14,Vegetatif Awal,6.6,15,10,18,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.8,91
+219,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.5,250,28,38.0,15.0,15.0,46,Vegetatif Aktif,6.5,21,19,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,44
+220,Langowan,NK Perkasa,Regosol,Pasir,0.6,155,26,0.0,0.0,0.0,20,Vegetatif Awal,6.6,14,12,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.0,90
+221,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,0.9,206,28,38.0,15.0,15.0,13,Vegetatif Awal,6.4,24,17,15,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,102
+222,Kauditan,NK Perkasa,Regosol,Pasir,2.8,150,28,23.0,0.0,0.0,44,Vegetatif Aktif,6.2,22,13,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,66
+223,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,186,28,15.0,15.0,15.0,69,Generatif,5.9,26,18,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,21
+224,Tondano Utara,NK Perkasa,Regosol,Pasir,1.8,241,26,0.0,0.0,0.0,32,Vegetatif Aktif,6.6,19,17,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,78
+225,Tondano Selatan,Bisi 2,Regosol,Pasir,2.0,230,26,38.0,15.0,15.0,44,Vegetatif Aktif,6.6,23,16,15,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,71
+226,Airmadidi,NK Perkasa,Andosol,Lempung,1.8,158,28,15.0,15.0,15.0,48,Vegetatif Aktif,6.8,26,20,26,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,62
+227,Langowan,Pertiwi,Andosol,Pasir,2.9,204,26,15.0,15.0,15.0,42,Vegetatif Aktif,5.8,15,26,14,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,63
+228,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.9,172,29,38.0,15.0,15.0,84,Generatif,5.9,30,25,23,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,6
+229,Tondano Selatan,Pertiwi,Andosol,Pasir,2.7,248,27,38.0,15.0,15.0,85,Generatif,5.9,28,15,18,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,20
+230,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.3,249,27,15.0,15.0,15.0,17,Vegetatif Awal,5.8,19,26,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.0,93
+231,Sonder,NK Perkasa,Andosol,Lempung,0.8,228,26,15.0,15.0,15.0,85,Generatif,6.0,29,23,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.6,25
+232,Sonder,NK Perkasa,Regosol,Pasir,1.0,170,27,23.0,0.0,0.0,58,Generatif,6.7,22,15,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,52
+233,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.7,222,30,15.0,15.0,15.0,21,Vegetatif Awal,6.4,18,17,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.9,69
+234,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,249,28,15.0,15.0,15.0,74,Generatif,5.9,23,25,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,16
+235,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,1.0,172,30,23.0,0.0,0.0,39,Vegetatif Aktif,5.6,16,9,17,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,51
+236,Kauditan,NK Perkasa,Regosol,Pasir,1.2,234,31,15.0,15.0,15.0,14,Vegetatif Awal,6.1,20,14,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,96
+237,Tondano Selatan,Pertiwi,Andosol,Lempung,2.5,164,31,38.0,15.0,15.0,13,Vegetatif Awal,6.0,25,25,23,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,92
+238,Tomohon,NK Perkasa,Regosol,Pasir,0.8,170,26,38.0,15.0,15.0,15,Vegetatif Awal,6.3,29,22,24,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,95
+239,Kauditan,Pertiwi,Andosol,Lempung,1.0,213,29,38.0,15.0,15.0,41,Vegetatif Aktif,5.5,23,20,16,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,64
+240,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.6,172,29,23.0,0.0,0.0,67,Generatif,5.6,24,15,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,23
+241,Langowan,Pioneer Sweet Corn,Latosol,Lempung,1.8,193,27,23.0,0.0,0.0,59,Generatif,6.3,17,19,18,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,31
+242,Sonder,NK Perkasa,Andosol,Lempung,1.9,159,27,23.0,0.0,0.0,48,Vegetatif Aktif,5.9,31,14,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.7,62
+243,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.4,184,31,0.0,0.0,0.0,71,Generatif,6.4,10,17,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,44
+244,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,0.7,184,28,0.0,0.0,0.0,38,Vegetatif Aktif,6.0,21,18,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.1,72
+245,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,204,26,0.0,0.0,0.0,24,Vegetatif Awal,6.3,21,12,12,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,66
+246,Langowan,NK Perkasa,Regosol,Lempung Berpasir,1.3,173,28,38.0,15.0,15.0,70,Generatif,6.7,31,16,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.9,40
+247,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.4,153,28,23.0,0.0,0.0,60,Generatif,5.6,26,19,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,55
+248,Langowan,Pertiwi,Andosol,Lempung,1.0,246,30,38.0,15.0,15.0,45,Vegetatif Aktif,5.7,24,14,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,7.6,60
+249,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,2.9,193,31,0.0,0.0,0.0,10,Vegetatif Awal,6.5,20,19,13,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,105
+250,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.0,223,26,0.0,0.0,0.0,82,Generatif,6.2,11,19,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,28
+251,Sonder,NK Perkasa,Andosol,Lempung,1.0,163,31,23.0,0.0,0.0,84,Generatif,6.2,24,19,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,26
+252,Tondano Selatan,NK Perkasa,Regosol,Pasir,2.2,199,29,0.0,0.0,0.0,84,Generatif,6.7,13,12,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.1,26
+253,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.8,242,31,15.0,15.0,15.0,16,Vegetatif Awal,6.8,26,22,20,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,74
+254,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.2,172,30,0.0,0.0,0.0,47,Vegetatif Aktif,6.3,10,14,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,43
+255,Tombulu,Pertiwi,Andosol,Lempung,1.0,192,28,38.0,15.0,15.0,15,Vegetatif Awal,5.8,32,16,16,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,90
+256,Kauditan,NK Perkasa,Regosol,Pasir,1.7,222,28,0.0,0.0,0.0,72,Generatif,6.6,13,19,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.1,38
+257,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.5,177,27,23.0,0.0,0.0,47,Vegetatif Aktif,5.9,20,11,17,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.8,43
+258,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.1,167,29,15.0,15.0,15.0,80,Generatif,6.0,22,14,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,10
+259,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,2.9,181,26,15.0,15.0,15.0,18,Vegetatif Awal,6.5,24,21,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,97
+260,Langowan,Pertiwi,Andosol,Lempung,2.7,249,31,15.0,15.0,15.0,14,Vegetatif Awal,6.7,29,19,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,91
+261,Tondano Selatan,Pertiwi,Andosol,Pasir,2.0,234,27,0.0,0.0,0.0,18,Vegetatif Awal,6.7,16,18,18,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.9,87
+262,Sonder,NK Perkasa,Andosol,Pasir,0.8,176,31,15.0,15.0,15.0,39,Vegetatif Aktif,6.7,28,18,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,71
+263,Langowan,Pertiwi,Andosol,Pasir,1.9,168,29,0.0,0.0,0.0,30,Vegetatif Aktif,6.0,11,20,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,75
+264,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,2.1,185,29,15.0,15.0,15.0,83,Generatif,6.3,25,17,25,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,27
+265,Kauditan,Pertiwi,Andosol,Pasir,1.7,245,28,23.0,0.0,0.0,65,Generatif,6.7,20,16,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,40
+266,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.2,232,28,15.0,15.0,15.0,65,Generatif,5.6,24,20,20,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,25
+267,Tombulu,Pertiwi,Andosol,Lempung,2.5,176,29,23.0,0.0,0.0,27,Vegetatif Aktif,5.6,21,20,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,78
+268,Sonder,NK Perkasa,Andosol,Lempung,2.3,206,31,0.0,0.0,0.0,72,Generatif,6.8,19,11,18,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,38
+269,Kauditan,Pertiwi,Andosol,Lempung,0.5,159,31,0.0,0.0,0.0,45,Vegetatif Aktif,5.6,11,15,20,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,60
+270,Airmadidi,NK Perkasa,Regosol,Pasir,1.4,185,29,23.0,0.0,0.0,14,Vegetatif Awal,5.8,24,11,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,96
+271,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.8,234,30,23.0,0.0,0.0,36,Vegetatif Aktif,6.1,21,9,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,6.0,54
+272,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.0,232,28,15.0,15.0,15.0,21,Vegetatif Awal,6.6,29,18,26,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,69
+273,Tondano Utara,Bisi 2,Regosol,Pasir,1.2,248,31,38.0,15.0,15.0,81,Generatif,6.0,36,14,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,34
+274,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.4,172,31,0.0,0.0,0.0,83,Generatif,6.1,17,11,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.1,32
+275,Kauditan,Pertiwi,Andosol,Lempung,2.9,241,28,0.0,0.0,0.0,44,Vegetatif Aktif,5.5,18,20,19,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,61
+276,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.4,216,26,38.0,15.0,15.0,46,Vegetatif Aktif,6.3,24,19,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,69
+277,Tondano Selatan,Pertiwi,Andosol,Lempung,1.8,246,28,38.0,15.0,15.0,61,Generatif,6.3,26,25,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.5,44
+278,Airmadidi,NK Perkasa,Regosol,Pasir,2.6,187,31,38.0,15.0,15.0,65,Generatif,6.0,27,18,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,45
+279,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,181,27,23.0,0.0,0.0,14,Vegetatif Awal,6.5,31,20,15,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,76
+280,Sonder,NK Perkasa,Andosol,Pasir,2.9,157,28,23.0,0.0,0.0,26,Vegetatif Aktif,6.4,22,18,13,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,84
+281,Tondano Utara,Pertiwi,Andosol,Lempung,1.3,202,28,15.0,15.0,15.0,59,Generatif,6.5,14,20,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,46
+282,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,0.6,176,30,23.0,0.0,0.0,83,Generatif,6.5,27,11,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,27
+283,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,225,26,0.0,0.0,0.0,20,Vegetatif Awal,6.8,18,19,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.0,70
+284,Tombulu,Pertiwi,Andosol,Pasir,2.1,194,26,38.0,15.0,15.0,26,Vegetatif Aktif,5.8,33,18,18,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,79
+285,Langowan,Bisi 2,Regosol,Pasir,2.9,233,31,38.0,15.0,15.0,83,Generatif,6.1,31,21,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,32
+286,Airmadidi,NK Perkasa,Andosol,Lempung,3.0,150,26,0.0,0.0,0.0,69,Generatif,6.5,18,20,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,41
+287,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.1,202,26,15.0,15.0,15.0,10,Vegetatif Awal,6.7,29,15,16,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,105
+288,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,2.2,194,27,0.0,0.0,0.0,52,Vegetatif Aktif,6.3,14,19,16,Seimbang,Pertahankan Kondisi,0,0,0,110,4.9,58
+289,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,2.8,246,31,23.0,0.0,0.0,43,Vegetatif Aktif,6.0,31,19,20,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,72
+290,Tondano Utara,NK Perkasa,Regosol,Pasir,1.5,206,28,0.0,0.0,0.0,12,Vegetatif Awal,5.8,22,14,10,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,98
+291,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.8,230,28,15.0,15.0,15.0,40,Vegetatif Aktif,6.7,21,23,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,75
+292,Tondano Utara,Bisi 2,Latosol,Lempung,1.7,168,30,15.0,15.0,15.0,39,Vegetatif Aktif,5.5,29,21,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,76
+293,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,3.0,242,26,0.0,0.0,0.0,50,Vegetatif Aktif,5.8,22,19,16,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,65
+294,Tondano Selatan,Pertiwi,Andosol,Lempung,1.5,180,29,0.0,0.0,0.0,70,Generatif,5.6,16,15,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,35
+295,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,150,27,0.0,0.0,0.0,54,Vegetatif Aktif,6.2,21,20,14,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,36
+296,Langowan,Pertiwi,Andosol,Lempung,0.5,201,27,38.0,15.0,15.0,40,Vegetatif Aktif,5.7,36,19,19,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,65
+297,Tombulu,Pertiwi,Andosol,Lempung,1.0,210,28,23.0,0.0,0.0,80,Generatif,5.9,20,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,25
+298,Langowan,Pioneer Sweet Corn,Latosol,Lempung,1.5,157,30,0.0,0.0,0.0,46,Vegetatif Aktif,5.5,20,14,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,4.9,44
+299,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.3,219,28,23.0,0.0,0.0,55,Vegetatif Aktif,6.6,20,11,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.8,35
+300,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.4,190,28,0.0,0.0,0.0,30,Vegetatif Aktif,6.1,25,9,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.1,60
+301,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,1.2,204,30,15.0,15.0,15.0,27,Vegetatif Aktif,6.1,24,18,26,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,63
+302,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.3,246,26,0.0,0.0,0.0,21,Vegetatif Awal,6.8,25,16,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,69
+303,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,231,26,38.0,15.0,15.0,82,Generatif,6.5,30,21,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,8
+304,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.2,225,28,15.0,15.0,15.0,47,Vegetatif Aktif,6.6,21,17,26,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,43
+305,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.6,160,30,23.0,0.0,0.0,53,Vegetatif Aktif,5.8,18,17,14,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,37
+306,Tondano Selatan,Bisi 2,Latosol,Lempung,1.3,171,30,0.0,0.0,0.0,69,Generatif,5.6,20,12,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,46
+307,Airmadidi,Bisi 2,Regosol,Pasir,0.5,181,26,23.0,0.0,0.0,30,Vegetatif Aktif,6.4,30,19,13,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,85
+308,Tondano Utara,Bisi 2,Latosol,Lempung,1.8,157,31,23.0,0.0,0.0,50,Vegetatif Aktif,5.6,28,20,12,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,65
+309,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,1.0,208,29,38.0,15.0,15.0,69,Generatif,6.1,34,21,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,46
+310,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,3.0,215,27,0.0,0.0,0.0,71,Generatif,6.0,20,20,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.1,39
+311,Langowan,Bisi 2,Regosol,Lempung Berpasir,1.3,159,29,0.0,0.0,0.0,85,Generatif,6.5,17,16,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.1,30
+312,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,2.6,172,29,38.0,15.0,15.0,43,Vegetatif Aktif,5.8,35,18,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,67
+313,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,2.0,202,29,38.0,15.0,15.0,43,Vegetatif Aktif,6.5,26,14,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,6.8,72
+314,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,175,27,0.0,0.0,0.0,67,Generatif,6.0,17,17,21,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,23
+315,Tondano Utara,Bisi 2,Latosol,Lempung,3.0,178,31,0.0,0.0,0.0,23,Vegetatif Awal,5.6,17,16,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.1,92
+316,Kauditan,Pertiwi,Andosol,Pasir,1.4,182,29,38.0,15.0,15.0,15,Vegetatif Awal,6.5,23,26,14,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,90
+317,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.3,198,27,23.0,0.0,0.0,59,Generatif,6.1,23,19,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,56
+318,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.1,171,28,23.0,0.0,0.0,55,Vegetatif Aktif,6.1,30,18,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,35
+319,Tondano Utara,Bisi 2,Regosol,Pasir,1.7,184,29,23.0,0.0,0.0,51,Vegetatif Aktif,6.8,26,20,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,64
+320,Tombulu,Pertiwi,Andosol,Lempung,1.1,157,30,23.0,0.0,0.0,85,Generatif,6.3,22,16,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,20
+321,Tomohon,NK Perkasa,Andosol,Lempung,1.4,165,27,23.0,0.0,0.0,64,Generatif,6.2,28,13,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.8,46
+322,Sonder,NK Perkasa,Andosol,Pasir,2.4,248,31,0.0,0.0,0.0,38,Vegetatif Aktif,6.2,23,20,14,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,72
+323,Tomohon,Bisi 2,Regosol,Pasir,2.1,185,30,23.0,0.0,0.0,66,Generatif,6.4,19,13,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,49
+324,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.7,208,31,0.0,0.0,0.0,31,Vegetatif Aktif,6.7,13,14,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.1,79
+325,Tombulu,Pertiwi,Andosol,Pasir,3.0,233,28,38.0,15.0,15.0,42,Vegetatif Aktif,6.3,36,14,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,7.5,63
+326,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.3,222,27,15.0,15.0,15.0,64,Generatif,5.8,14,23,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,26
+327,Langowan,Bisi 2,Regosol,Pasir,0.6,212,29,15.0,15.0,15.0,48,Vegetatif Aktif,6.8,14,22,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,67
+328,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,184,29,15.0,15.0,15.0,56,Generatif,6.3,28,19,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,34
+329,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.9,178,30,0.0,0.0,0.0,49,Vegetatif Aktif,5.9,14,17,16,Seimbang,Pertahankan Kondisi,0,0,0,90,5.1,41
+330,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,2.8,182,27,23.0,0.0,0.0,22,Vegetatif Awal,6.5,21,14,16,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,88
+331,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.6,161,27,15.0,15.0,15.0,43,Vegetatif Aktif,5.9,15,25,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,72
+332,Langowan,NK Perkasa,Regosol,Pasir,2.5,228,28,23.0,0.0,0.0,51,Vegetatif Aktif,6.3,17,11,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,59
+333,Tomohon,Bisi 2,Regosol,Lempung Berpasir,2.3,244,26,38.0,15.0,15.0,31,Vegetatif Aktif,6.1,21,19,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,84
+334,Tomohon,NK Perkasa,Andosol,Pasir,2.2,229,29,38.0,15.0,15.0,62,Generatif,5.6,22,24,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,7.5,48
+335,Tomohon,Bisi 2,Regosol,Lempung Berpasir,2.3,160,27,38.0,15.0,15.0,68,Generatif,6.1,23,19,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,47
+336,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,0.6,173,28,15.0,15.0,15.0,42,Vegetatif Aktif,5.8,16,19,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,68
+337,Tomohon,NK Perkasa,Andosol,Pasir,2.7,163,28,38.0,15.0,15.0,75,Generatif,6.5,36,24,20,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,35
+338,Langowan,NK Perkasa,Regosol,Pasir,2.7,154,26,23.0,0.0,0.0,48,Vegetatif Aktif,6.2,24,17,10,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,62
+339,Langowan,Bisi 2,Regosol,Pasir,1.3,175,28,23.0,0.0,0.0,53,Vegetatif Aktif,6.3,16,13,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.9,62
+340,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.0,210,27,38.0,15.0,15.0,60,Generatif,5.7,30,14,18,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,30
+341,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,171,30,38.0,15.0,15.0,45,Vegetatif Aktif,6.4,26,15,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,45
+342,Tomohon,NK Perkasa,Regosol,Pasir,1.2,246,29,15.0,15.0,15.0,30,Vegetatif Aktif,6.0,19,26,25,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,80
+343,Tomohon,NK Perkasa,Andosol,Lempung,0.6,242,27,0.0,0.0,0.0,59,Generatif,6.7,16,11,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.7,51
+344,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,154,28,0.0,0.0,0.0,26,Vegetatif Aktif,6.5,14,15,10,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,64
+345,Tombulu,Pertiwi,Andosol,Lempung,0.8,238,30,38.0,15.0,15.0,25,Vegetatif Awal,6.3,21,23,19,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,80
+346,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.8,194,28,23.0,0.0,0.0,45,Vegetatif Aktif,5.8,23,16,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,45
+347,Airmadidi,NK Perkasa,Andosol,Lempung,1.4,154,31,23.0,0.0,0.0,51,Vegetatif Aktif,6.2,28,19,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,59
+348,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,178,26,38.0,15.0,15.0,55,Vegetatif Aktif,6.3,25,18,15,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,35
+349,Langowan,Pertiwi,Andosol,Lempung,2.8,182,27,15.0,15.0,15.0,70,Generatif,5.8,24,26,20,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,35
+350,Tomohon,NK Perkasa,Andosol,Lempung,1.4,154,30,0.0,0.0,0.0,22,Vegetatif Awal,6.2,24,19,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,88
+351,Tomohon,NK Perkasa,Andosol,Lempung,0.9,189,26,38.0,15.0,15.0,22,Vegetatif Awal,6.0,34,19,14,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,88
+352,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.4,181,30,15.0,15.0,15.0,17,Vegetatif Awal,6.6,18,21,23,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.9,93
+353,Tondano Selatan,Bisi 2,Regosol,Pasir,2.9,169,26,0.0,0.0,0.0,47,Vegetatif Aktif,5.9,18,14,17,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,68
+354,Tomohon,NK Perkasa,Regosol,Pasir,1.9,152,27,38.0,15.0,15.0,36,Vegetatif Aktif,6.8,22,18,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,74
+355,Tondano Utara,Pertiwi,Andosol,Pasir,1.7,193,30,0.0,0.0,0.0,59,Generatif,6.1,20,18,18,Seimbang,Pertahankan Kondisi,0,0,0,105,5.9,46
+356,Langowan,Pioneer Sweet Corn,Latosol,Lempung,1.1,232,28,23.0,0.0,0.0,14,Vegetatif Awal,6.0,19,15,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.9,76
+357,Tondano Selatan,Bisi 2,Latosol,Lempung,1.5,227,30,23.0,0.0,0.0,76,Generatif,6.7,17,16,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,39
+358,Tondano Utara,NK Perkasa,Regosol,Pasir,1.5,158,29,23.0,0.0,0.0,76,Generatif,6.5,21,10,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,34
+359,Tondano Utara,Bisi 2,Regosol,Pasir,1.0,164,27,23.0,0.0,0.0,17,Vegetatif Awal,6.8,28,17,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,98
+360,Sonder,NK Perkasa,Andosol,Pasir,2.2,173,30,15.0,15.0,15.0,60,Generatif,6.3,18,26,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,50
+361,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.1,221,31,23.0,0.0,0.0,68,Generatif,5.6,18,14,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,47
+362,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.6,204,26,0.0,0.0,0.0,84,Generatif,6.2,17,14,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.0,6
+363,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.1,250,28,15.0,15.0,15.0,52,Vegetatif Aktif,6.6,28,21,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,63
+364,Airmadidi,NK Perkasa,Andosol,Pasir,0.6,170,30,0.0,0.0,0.0,74,Generatif,6.7,19,18,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,36
+365,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,0.9,168,30,38.0,15.0,15.0,75,Generatif,6.7,26,24,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,40
+366,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,203,27,38.0,15.0,15.0,65,Generatif,6.3,25,14,23,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,25
+367,Langowan,Bisi 2,Regosol,Pasir,0.8,216,26,23.0,0.0,0.0,68,Generatif,5.9,29,14,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,47
+368,Kauditan,Pertiwi,Andosol,Lempung,1.5,158,28,0.0,0.0,0.0,52,Vegetatif Aktif,5.6,10,10,16,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.8,53
+369,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.1,160,26,0.0,0.0,0.0,42,Vegetatif Aktif,6.5,12,15,10,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,48
+370,Tomohon,NK Perkasa,Regosol,Pasir,1.2,151,27,38.0,15.0,15.0,74,Generatif,5.8,30,23,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.9,36
+371,Tomohon,Bisi 2,Regosol,Lempung Berpasir,0.9,203,30,15.0,15.0,15.0,51,Vegetatif Aktif,5.5,21,18,23,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,64
+372,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.2,210,29,38.0,15.0,15.0,37,Vegetatif Aktif,6.5,35,23,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,53
+373,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.7,243,31,23.0,0.0,0.0,11,Vegetatif Awal,6.5,19,11,21,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,6.0,79
+374,Tondano Utara,Bisi 2,Latosol,Lempung,0.9,207,30,23.0,0.0,0.0,48,Vegetatif Aktif,6.6,22,16,11,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,67
+375,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.0,244,26,23.0,0.0,0.0,79,Generatif,6.2,23,15,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,11
+376,Tombulu,Pertiwi,Andosol,Pasir,2.3,183,31,38.0,15.0,15.0,67,Generatif,6.2,21,15,26,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,38
+377,Tombulu,Pertiwi,Andosol,Lempung,1.1,212,26,38.0,15.0,15.0,13,Vegetatif Awal,6.1,35,22,14,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,92
+378,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.5,189,30,23.0,0.0,0.0,53,Vegetatif Aktif,6.3,20,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,37
+379,Sonder,NK Perkasa,Andosol,Pasir,1.6,158,30,15.0,15.0,15.0,59,Generatif,5.6,16,18,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,51
+380,Langowan,Pertiwi,Andosol,Lempung,2.6,224,29,38.0,15.0,15.0,81,Generatif,6.0,27,20,25,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,24
+381,Sonder,NK Perkasa,Andosol,Lempung,0.8,198,30,15.0,15.0,15.0,20,Vegetatif Awal,5.9,28,16,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,90
+382,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.9,244,26,15.0,15.0,15.0,41,Vegetatif Aktif,6.4,25,17,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,49
+383,Kauditan,Pertiwi,Andosol,Lempung,3.0,176,30,38.0,15.0,15.0,36,Vegetatif Aktif,5.6,27,17,24,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,69
+384,Kauditan,Pertiwi,Andosol,Lempung,1.2,200,29,0.0,0.0,0.0,11,Vegetatif Awal,5.9,19,20,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.8,94
+385,Tondano Utara,Pertiwi,Andosol,Lempung,1.2,219,31,15.0,15.0,15.0,49,Vegetatif Aktif,5.5,16,26,15,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,56
+386,Langowan,NK Perkasa,Regosol,Lempung Berpasir,2.6,180,27,23.0,0.0,0.0,38,Vegetatif Aktif,5.5,22,15,15,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,72
+387,Sonder,NK Perkasa,Andosol,Pasir,2.2,225,27,0.0,0.0,0.0,64,Generatif,6.2,21,17,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.7,46
+388,Tondano Utara,Pertiwi,Andosol,Lempung,2.0,200,28,38.0,15.0,15.0,78,Generatif,6.6,25,14,21,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,27
+389,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.5,234,27,23.0,0.0,0.0,65,Generatif,5.9,17,13,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,25
+390,Langowan,Pertiwi,Andosol,Pasir,0.6,173,27,23.0,0.0,0.0,24,Vegetatif Awal,5.6,28,10,21,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,81
+391,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,193,26,15.0,15.0,15.0,37,Vegetatif Aktif,6.4,20,19,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,53
+392,Kauditan,Pertiwi,Andosol,Lempung,2.9,229,31,23.0,0.0,0.0,49,Vegetatif Aktif,5.6,22,11,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.7,56
+393,Tombulu,Pertiwi,Andosol,Lempung,0.8,236,26,0.0,0.0,0.0,82,Generatif,5.6,22,16,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,23
+394,Langowan,Pertiwi,Andosol,Pasir,0.9,206,29,23.0,0.0,0.0,82,Generatif,6.5,28,10,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,23
+395,Tondano Selatan,Pertiwi,Andosol,Pasir,3.0,171,26,38.0,15.0,15.0,14,Vegetatif Awal,6.3,34,14,15,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,91
+396,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,0.9,213,29,0.0,0.0,0.0,78,Generatif,6.4,19,13,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,32
+397,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.1,165,31,23.0,0.0,0.0,81,Generatif,6.4,23,19,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,34
+398,Tondano Utara,Pertiwi,Andosol,Lempung,0.9,244,31,0.0,0.0,0.0,70,Generatif,6.1,19,9,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,35
+399,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.3,183,30,23.0,0.0,0.0,44,Vegetatif Aktif,6.2,19,17,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,46
+400,Sonder,Pioneer Sweet Corn,Latosol,Lempung,0.8,188,30,38.0,15.0,15.0,17,Vegetatif Awal,6.3,31,17,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,73
+401,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.7,188,28,38.0,15.0,15.0,82,Generatif,6.2,28,18,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,8
+402,Tondano Selatan,Pertiwi,Andosol,Lempung,2.6,160,29,15.0,15.0,15.0,45,Vegetatif Aktif,6.7,14,14,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.6,60
+403,Tomohon,Bisi 2,Regosol,Pasir,1.3,177,30,38.0,15.0,15.0,54,Vegetatif Aktif,6.5,23,21,14,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,61
+404,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,224,28,38.0,15.0,15.0,36,Vegetatif Aktif,6.3,28,22,26,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,54
+405,Langowan,Bisi 2,Regosol,Lempung Berpasir,1.1,243,27,15.0,15.0,15.0,33,Vegetatif Aktif,6.2,17,24,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,82
+406,Tondano Utara,Pertiwi,Andosol,Pasir,2.1,245,27,23.0,0.0,0.0,49,Vegetatif Aktif,5.8,22,9,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.7,56
+407,Kauditan,Pertiwi,Andosol,Pasir,0.9,250,26,23.0,0.0,0.0,20,Vegetatif Awal,5.5,29,10,13,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,85
+408,Kauditan,Pertiwi,Andosol,Lempung,0.8,188,30,15.0,15.0,15.0,54,Vegetatif Aktif,6.0,19,19,14,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,51
+409,Tondano Selatan,Pertiwi,Andosol,Lempung,1.7,208,27,23.0,0.0,0.0,66,Generatif,6.6,27,18,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,39
+410,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,173,30,23.0,0.0,0.0,67,Generatif,6.7,24,12,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,23
+411,Tondano Utara,Pertiwi,Andosol,Lempung,0.7,233,27,38.0,15.0,15.0,44,Vegetatif Aktif,5.9,23,18,17,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,61
+412,Airmadidi,NK Perkasa,Regosol,Pasir,0.7,172,31,23.0,0.0,0.0,24,Vegetatif Awal,5.5,20,14,11,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,86
+413,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.8,214,28,23.0,0.0,0.0,44,Vegetatif Aktif,6.7,21,11,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,6.0,46
+414,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.1,197,27,15.0,15.0,15.0,78,Generatif,6.3,27,18,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.8,12
+415,Tondano Selatan,Pertiwi,Andosol,Lempung,0.5,235,26,38.0,15.0,15.0,37,Vegetatif Aktif,6.0,27,24,26,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,68
+416,Tondano Utara,Pertiwi,Andosol,Pasir,2.5,186,28,15.0,15.0,15.0,54,Vegetatif Aktif,6.1,23,26,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,51
+417,Airmadidi,NK Perkasa,Andosol,Pasir,1.7,203,27,38.0,15.0,15.0,46,Vegetatif Aktif,5.9,34,17,26,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,64
+418,Tombulu,NK Perkasa,Regosol,Pasir,1.4,199,30,15.0,15.0,15.0,85,Generatif,6.3,26,24,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,25
+419,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,0.5,160,27,38.0,15.0,15.0,34,Vegetatif Aktif,6.1,36,22,26,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,81
+420,Airmadidi,NK Perkasa,Regosol,Pasir,0.9,181,31,38.0,15.0,15.0,11,Vegetatif Awal,6.2,34,22,16,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,99
+421,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.5,159,27,15.0,15.0,15.0,12,Vegetatif Awal,6.7,26,14,17,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,78
+422,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.0,173,26,15.0,15.0,15.0,11,Vegetatif Awal,6.7,22,20,14,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,99
+423,Kauditan,Pertiwi,Andosol,Lempung,2.4,198,31,38.0,15.0,15.0,65,Generatif,6.2,36,21,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.6,40
+424,Langowan,NK Perkasa,Regosol,Lempung Berpasir,2.7,188,26,23.0,0.0,0.0,76,Generatif,6.2,16,16,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,34
+425,Tondano Utara,Bisi 2,Regosol,Pasir,2.2,220,28,23.0,0.0,0.0,62,Generatif,6.2,26,11,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,53
+426,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.3,220,29,0.0,0.0,0.0,19,Vegetatif Awal,6.0,14,15,11,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,4.9,91
+427,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.7,167,29,15.0,15.0,15.0,33,Vegetatif Aktif,5.6,20,16,16,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,57
+428,Tondano Selatan,Pertiwi,Andosol,Lempung,1.0,178,28,0.0,0.0,0.0,16,Vegetatif Awal,6.5,11,9,22,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.7,89
+429,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.9,244,27,38.0,15.0,15.0,60,Generatif,6.3,33,22,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,55
+430,Tomohon,NK Perkasa,Regosol,Pasir,1.8,225,31,0.0,0.0,0.0,26,Vegetatif Aktif,6.4,15,14,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.1,84
+431,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,238,31,0.0,0.0,0.0,78,Generatif,5.5,10,20,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,4.9,12
+432,Tomohon,NK Perkasa,Andosol,Lempung,0.9,234,30,0.0,0.0,0.0,60,Generatif,6.4,22,11,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,50
+433,Sonder,NK Perkasa,Andosol,Pasir,2.7,241,31,15.0,15.0,15.0,51,Vegetatif Aktif,6.3,16,23,17,Seimbang,Pertahankan Kondisi,0,0,0,110,6.6,59
+434,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,157,31,15.0,15.0,15.0,18,Vegetatif Awal,6.4,23,24,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,72
+435,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.2,151,29,0.0,0.0,0.0,24,Vegetatif Awal,6.6,23,18,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,66
+436,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,150,26,0.0,0.0,0.0,71,Generatif,5.7,21,12,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,4.9,19
+437,Tomohon,Bisi 2,Regosol,Lempung Berpasir,1.3,153,26,15.0,15.0,15.0,71,Generatif,5.8,16,26,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,44
+438,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.0,189,31,15.0,15.0,15.0,36,Vegetatif Aktif,6.2,29,24,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,54
+439,Langowan,Bisi 2,Regosol,Lempung Berpasir,0.6,179,30,0.0,0.0,0.0,29,Vegetatif Aktif,5.6,24,12,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.0,86
+440,Tomohon,NK Perkasa,Regosol,Pasir,2.5,193,29,23.0,0.0,0.0,13,Vegetatif Awal,6.0,27,13,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,97
+441,Tomohon,NK Perkasa,Andosol,Pasir,0.6,229,30,23.0,0.0,0.0,62,Generatif,6.6,23,8,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,48
+442,Airmadidi,NK Perkasa,Andosol,Lempung,0.5,200,31,23.0,0.0,0.0,39,Vegetatif Aktif,6.6,28,15,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,71
+443,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.6,220,27,38.0,15.0,15.0,69,Generatif,5.7,35,20,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.8,21
+444,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.5,164,31,23.0,0.0,0.0,70,Generatif,6.6,23,18,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,20
+445,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,199,28,0.0,0.0,0.0,24,Vegetatif Awal,6.6,19,10,18,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.1,66
+446,Tombulu,NK Perkasa,Regosol,Pasir,2.9,174,31,15.0,15.0,15.0,38,Vegetatif Aktif,5.7,16,24,14,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,72
+447,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.7,223,30,0.0,0.0,0.0,32,Vegetatif Aktif,6.7,11,16,14,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,83
+448,Airmadidi,NK Perkasa,Andosol,Lempung,0.9,250,28,23.0,0.0,0.0,49,Vegetatif Aktif,6.4,30,16,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,61
+449,Tondano Utara,Pertiwi,Andosol,Lempung,2.4,190,29,38.0,15.0,15.0,42,Vegetatif Aktif,6.7,21,23,26,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,63
+450,Tondano Utara,Pertiwi,Andosol,Pasir,2.7,191,26,0.0,0.0,0.0,57,Generatif,6.2,12,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,48
+451,Tomohon,NK Perkasa,Andosol,Lempung,1.7,197,27,0.0,0.0,0.0,18,Vegetatif Awal,6.6,24,13,15,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,92
+452,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.9,245,27,23.0,0.0,0.0,82,Generatif,6.7,20,17,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,8
+453,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.7,176,27,23.0,0.0,0.0,52,Vegetatif Aktif,6.0,17,15,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,38
+454,Kauditan,Pertiwi,Andosol,Pasir,2.3,192,30,15.0,15.0,15.0,19,Vegetatif Awal,5.6,17,18,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.7,86
+455,Tomohon,Bisi 2,Regosol,Lempung Berpasir,0.5,172,29,15.0,15.0,15.0,61,Generatif,5.9,29,20,20,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,54
+456,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.0,209,31,23.0,0.0,0.0,22,Vegetatif Awal,6.1,17,18,21,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.9,88
+457,Tondano Utara,Bisi 2,Latosol,Lempung,1.6,209,28,23.0,0.0,0.0,46,Vegetatif Aktif,6.2,24,11,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,6.0,69
+458,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,1.3,216,27,38.0,15.0,15.0,29,Vegetatif Aktif,6.7,35,24,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,81
+459,Tondano Utara,Pertiwi,Andosol,Lempung,1.5,196,27,38.0,15.0,15.0,47,Vegetatif Aktif,6.5,30,22,20,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,58
+460,Tondano Utara,NK Perkasa,Regosol,Pasir,0.9,198,30,38.0,15.0,15.0,69,Generatif,6.7,25,23,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.8,41
+461,Langowan,Bisi 2,Regosol,Pasir,3.0,204,30,23.0,0.0,0.0,47,Vegetatif Aktif,6.4,16,18,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,68
+462,Airmadidi,NK Perkasa,Regosol,Pasir,2.9,178,27,23.0,0.0,0.0,40,Vegetatif Aktif,6.7,20,12,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,70
+463,Airmadidi,NK Perkasa,Andosol,Pasir,1.2,239,28,23.0,0.0,0.0,78,Generatif,6.0,27,8,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,32
+464,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.6,182,30,38.0,15.0,15.0,30,Vegetatif Aktif,5.9,32,24,16,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,80
+465,Tondano Utara,Pertiwi,Andosol,Pasir,0.7,189,29,38.0,15.0,15.0,81,Generatif,5.7,22,17,18,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,24
+466,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.4,212,29,38.0,15.0,15.0,47,Vegetatif Aktif,6.5,27,18,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,43
+467,Tondano Selatan,Bisi 2,Regosol,Pasir,2.0,151,28,15.0,15.0,15.0,63,Generatif,6.2,25,25,25,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,52
+468,Airmadidi,NK Perkasa,Andosol,Pasir,1.5,225,29,23.0,0.0,0.0,42,Vegetatif Aktif,6.6,22,13,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.8,68
+469,Tondano Selatan,Pertiwi,Andosol,Pasir,0.9,164,30,0.0,0.0,0.0,19,Vegetatif Awal,5.5,13,19,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.8,86
+470,Sonder,NK Perkasa,Andosol,Pasir,1.0,188,27,0.0,0.0,0.0,66,Generatif,6.5,17,19,18,Seimbang,Pertahankan Kondisi,0,0,0,110,5.7,44
+471,Tondano Selatan,Pertiwi,Andosol,Pasir,2.0,205,30,0.0,0.0,0.0,85,Generatif,6.5,17,19,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,20
+472,Langowan,Pertiwi,Andosol,Lempung,0.8,240,28,0.0,0.0,0.0,57,Generatif,5.9,20,15,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,48
+473,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.9,167,27,23.0,0.0,0.0,45,Vegetatif Aktif,6.5,29,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,45
+474,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,0.5,225,27,15.0,15.0,15.0,71,Generatif,6.0,23,20,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,39
+475,Tondano Utara,Pertiwi,Andosol,Pasir,2.2,235,27,0.0,0.0,0.0,75,Generatif,6.4,13,9,21,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,30
+476,Tondano Selatan,Pertiwi,Andosol,Pasir,2.7,198,30,15.0,15.0,15.0,21,Vegetatif Awal,5.7,18,26,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.8,84
+477,Tombulu,Pertiwi,Andosol,Pasir,1.1,187,28,38.0,15.0,15.0,28,Vegetatif Aktif,6.0,25,21,14,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,77
+478,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,0.8,163,30,23.0,0.0,0.0,43,Vegetatif Aktif,5.8,29,18,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,47
+479,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.1,174,30,15.0,15.0,15.0,51,Vegetatif Aktif,5.9,26,20,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,39
+480,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.2,231,26,38.0,15.0,15.0,26,Vegetatif Aktif,5.5,28,16,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,89
+481,Tombulu,Bisi 2,Regosol,Pasir,1.9,223,26,38.0,15.0,15.0,29,Vegetatif Aktif,6.7,24,20,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,86
+482,Tomohon,NK Perkasa,Regosol,Pasir,1.8,246,29,38.0,15.0,15.0,74,Generatif,6.5,29,21,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,36
+483,Sonder,Bisi 2,Regosol,Pasir,2.1,183,26,15.0,15.0,15.0,31,Vegetatif Aktif,6.6,24,14,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.9,84
+484,Tombulu,NK Perkasa,Regosol,Pasir,2.9,236,26,23.0,0.0,0.0,67,Generatif,5.9,30,19,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,43
+485,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.7,250,29,0.0,0.0,0.0,53,Vegetatif Aktif,5.6,20,8,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,62
+486,Sonder,NK Perkasa,Regosol,Pasir,1.8,156,28,15.0,15.0,15.0,52,Vegetatif Aktif,6.3,17,24,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,58
+487,Airmadidi,Bisi 2,Regosol,Pasir,1.7,209,29,15.0,15.0,15.0,63,Generatif,5.6,15,25,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,52
+488,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,2.9,220,29,15.0,15.0,15.0,37,Vegetatif Aktif,6.1,16,16,16,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,73
+489,Sonder,Bisi 2,Regosol,Pasir,1.5,157,29,38.0,15.0,15.0,10,Vegetatif Awal,6.1,36,26,19,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,105
+490,Airmadidi,NK Perkasa,Andosol,Lempung,1.0,234,28,23.0,0.0,0.0,57,Generatif,6.7,27,15,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,53
+491,Langowan,Bisi 2,Regosol,Pasir,1.3,173,29,15.0,15.0,15.0,52,Vegetatif Aktif,6.3,20,19,15,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,63
+492,Langowan,Pertiwi,Andosol,Lempung,2.6,151,31,15.0,15.0,15.0,60,Generatif,6.6,15,22,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.6,45
+493,Sonder,Bisi 2,Regosol,Lempung Berpasir,2.5,226,31,23.0,0.0,0.0,12,Vegetatif Awal,5.8,17,10,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.9,103
+494,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.7,179,28,15.0,15.0,15.0,48,Vegetatif Aktif,6.5,28,22,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,42
+495,Tombulu,Bisi 2,Regosol,Pasir,2.6,225,31,15.0,15.0,15.0,48,Vegetatif Aktif,6.2,22,22,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,67
+496,Sonder,NK Perkasa,Regosol,Lempung Berpasir,2.3,209,30,23.0,0.0,0.0,21,Vegetatif Awal,6.0,25,13,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,89
+497,Tondano Utara,Bisi 2,Latosol,Lempung,2.2,184,28,23.0,0.0,0.0,58,Generatif,5.9,17,14,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,57
+498,Tombulu,Pertiwi,Andosol,Lempung,2.4,238,26,38.0,15.0,15.0,27,Vegetatif Aktif,6.7,25,21,22,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,78
+499,Tondano Utara,Pertiwi,Andosol,Lempung,1.6,210,30,38.0,15.0,15.0,57,Generatif,6.7,36,17,23,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,48
+500,Tondano Selatan,NK Perkasa,Regosol,Pasir,2.5,233,30,15.0,15.0,15.0,34,Vegetatif Aktif,5.7,28,18,17,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,76
+501,Tondano Selatan,Bisi 2,Latosol,Lempung,1.8,207,29,38.0,15.0,15.0,29,Vegetatif Aktif,6.2,22,16,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,86
+502,Tombulu,Pertiwi,Andosol,Pasir,1.4,237,31,0.0,0.0,0.0,76,Generatif,6.5,22,20,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.7,29
+503,Langowan,Pioneer Sweet Corn,Latosol,Lempung,0.9,199,29,23.0,0.0,0.0,70,Generatif,6.1,24,16,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,20
+504,Kauditan,NK Perkasa,Regosol,Pasir,2.8,213,26,23.0,0.0,0.0,85,Generatif,6.0,30,18,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,25
+505,Langowan,Pertiwi,Andosol,Lempung,1.4,175,29,15.0,15.0,15.0,19,Vegetatif Awal,5.7,28,20,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,86
+506,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,1.5,152,26,38.0,15.0,15.0,23,Vegetatif Awal,6.0,34,18,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,87
+507,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.4,154,26,0.0,0.0,0.0,82,Generatif,5.6,19,17,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,33
+508,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.6,218,29,23.0,0.0,0.0,74,Generatif,6.3,24,20,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,16
+509,Airmadidi,Bisi 2,Regosol,Pasir,3.0,164,31,15.0,15.0,15.0,45,Vegetatif Aktif,6.7,21,22,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,70
+510,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.6,150,27,23.0,0.0,0.0,81,Generatif,6.4,25,8,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,9
+511,Kauditan,Bisi 2,Regosol,Lempung Berpasir,0.8,174,26,15.0,15.0,15.0,20,Vegetatif Awal,5.7,25,19,15,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,95
+512,Langowan,Pertiwi,Andosol,Pasir,2.0,193,29,0.0,0.0,0.0,11,Vegetatif Awal,6.3,22,20,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,94
+513,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.6,184,27,0.0,0.0,0.0,18,Vegetatif Awal,5.7,18,20,11,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.1,72
+514,Airmadidi,NK Perkasa,Andosol,Lempung,2.4,238,27,23.0,0.0,0.0,76,Generatif,6.3,22,12,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,34
+515,Kauditan,Bisi 2,Regosol,Pasir,1.4,155,30,38.0,15.0,15.0,14,Vegetatif Awal,5.9,29,24,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,101
+516,Tomohon,NK Perkasa,Andosol,Lempung,1.1,235,31,15.0,15.0,15.0,59,Generatif,6.1,14,25,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.8,51
+517,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.0,228,27,15.0,15.0,15.0,84,Generatif,6.3,25,17,24,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,31
+518,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.7,243,31,15.0,15.0,15.0,50,Vegetatif Aktif,5.7,27,25,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,60
+519,Sonder,NK Perkasa,Andosol,Pasir,1.7,196,26,0.0,0.0,0.0,33,Vegetatif Aktif,5.8,21,20,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.7,77
+520,Tondano Utara,Pertiwi,Andosol,Lempung,1.1,221,27,38.0,15.0,15.0,32,Vegetatif Aktif,5.5,29,21,16,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,73
+521,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.4,211,30,15.0,15.0,15.0,33,Vegetatif Aktif,6.2,16,17,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,57
+522,Airmadidi,NK Perkasa,Andosol,Lempung,0.6,170,26,15.0,15.0,15.0,58,Generatif,5.9,14,18,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,52
+523,Tondano Utara,Pertiwi,Andosol,Pasir,2.6,209,31,15.0,15.0,15.0,59,Generatif,6.6,18,23,26,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,46
+524,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.3,246,27,38.0,15.0,15.0,73,Generatif,5.5,32,20,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,37
+525,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.5,240,27,15.0,15.0,15.0,31,Vegetatif Aktif,5.8,25,20,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,59
+526,Tombulu,Pertiwi,Andosol,Lempung,1.5,180,29,15.0,15.0,15.0,32,Vegetatif Aktif,5.9,27,26,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,73
+527,Tomohon,Bisi 2,Regosol,Lempung Berpasir,0.9,243,29,38.0,15.0,15.0,15,Vegetatif Awal,5.7,25,17,19,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,100
+528,Tombulu,NK Perkasa,Regosol,Pasir,1.5,185,26,15.0,15.0,15.0,80,Generatif,6.6,14,25,18,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,30
+529,Tondano Utara,Pertiwi,Andosol,Pasir,1.9,181,28,15.0,15.0,15.0,33,Vegetatif Aktif,6.1,22,23,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,72
+530,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.8,192,31,23.0,0.0,0.0,46,Vegetatif Aktif,5.9,19,10,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,44
+531,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,2.3,181,27,0.0,0.0,0.0,23,Vegetatif Awal,6.5,12,20,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,4.9,92
+532,Airmadidi,NK Perkasa,Andosol,Pasir,2.4,245,28,38.0,15.0,15.0,71,Generatif,5.9,33,15,18,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,39
+533,Airmadidi,NK Perkasa,Andosol,Pasir,1.4,250,27,15.0,15.0,15.0,19,Vegetatif Awal,6.4,26,21,17,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,91
+534,Langowan,Pioneer Sweet Corn,Latosol,Lempung,1.2,197,27,15.0,15.0,15.0,35,Vegetatif Aktif,6.6,14,19,20,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,55
+535,Tondano Selatan,Bisi 2,Latosol,Lempung,0.9,227,27,38.0,15.0,15.0,73,Generatif,5.9,24,20,21,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,42
+536,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,1.3,162,27,23.0,0.0,0.0,65,Generatif,6.8,22,10,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,45
+537,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,186,26,38.0,15.0,15.0,31,Vegetatif Aktif,5.6,26,25,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,59
+538,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.2,234,26,0.0,0.0,0.0,69,Generatif,6.0,22,13,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.0,21
+539,Tondano Selatan,Pertiwi,Andosol,Pasir,2.1,219,27,15.0,15.0,15.0,69,Generatif,5.5,20,25,20,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,36
+540,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,216,30,0.0,0.0,0.0,41,Vegetatif Aktif,5.8,20,19,15,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,49
+541,Airmadidi,Bisi 2,Regosol,Lempung Berpasir,1.6,238,26,38.0,15.0,15.0,76,Generatif,5.5,33,23,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,39
+542,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.1,230,29,15.0,15.0,15.0,77,Generatif,6.2,16,25,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,13
+543,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.7,176,31,15.0,15.0,15.0,69,Generatif,6.2,21,24,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.8,46
+544,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,0.9,188,29,38.0,15.0,15.0,23,Vegetatif Awal,5.9,28,21,17,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,87
+545,Airmadidi,Bisi 2,Regosol,Pasir,2.6,225,30,0.0,0.0,0.0,10,Vegetatif Awal,6.2,17,12,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.0,105
+546,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.6,192,31,15.0,15.0,15.0,31,Vegetatif Aktif,6.8,21,22,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,59
+547,Tombulu,Pertiwi,Andosol,Pasir,1.8,221,30,38.0,15.0,15.0,69,Generatif,6.1,21,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.7,36
+548,Tomohon,NK Perkasa,Andosol,Lempung,1.7,200,28,0.0,0.0,0.0,49,Vegetatif Aktif,6.3,23,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,61
+549,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,208,27,15.0,15.0,15.0,73,Generatif,5.7,24,14,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,17
+550,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.6,164,26,38.0,15.0,15.0,54,Vegetatif Aktif,5.6,21,17,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,36
+551,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.3,211,30,0.0,0.0,0.0,66,Generatif,6.7,18,12,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,24
+552,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.6,237,26,38.0,15.0,15.0,34,Vegetatif Aktif,5.7,27,25,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,56
+553,Sonder,NK Perkasa,Andosol,Pasir,1.3,204,26,0.0,0.0,0.0,24,Vegetatif Awal,5.6,11,15,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.7,86
+554,Tondano Selatan,Pertiwi,Andosol,Pasir,1.8,247,29,0.0,0.0,0.0,69,Generatif,6.4,17,11,19,Seimbang,Pertahankan Kondisi,0,0,0,105,5.9,36
+555,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.9,224,28,38.0,15.0,15.0,34,Vegetatif Aktif,6.1,29,22,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,56
+556,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,203,29,38.0,15.0,15.0,10,Vegetatif Awal,6.8,32,14,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,80
+557,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,1.5,204,27,0.0,0.0,0.0,67,Generatif,6.4,16,20,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,48
+558,Sonder,NK Perkasa,Andosol,Pasir,1.6,249,28,23.0,0.0,0.0,21,Vegetatif Awal,6.5,31,16,15,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,89
+559,Sonder,Bisi 2,Regosol,Pasir,1.7,233,28,15.0,15.0,15.0,19,Vegetatif Awal,6.0,22,22,17,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,96
+560,Kauditan,Pertiwi,Andosol,Pasir,2.2,221,30,15.0,15.0,15.0,26,Vegetatif Aktif,6.3,16,20,18,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,79
+561,Tondano Selatan,Bisi 2,Regosol,Pasir,2.7,180,30,15.0,15.0,15.0,30,Vegetatif Aktif,6.3,17,24,23,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,85
+562,Langowan,Pertiwi,Andosol,Pasir,2.8,179,27,23.0,0.0,0.0,38,Vegetatif Aktif,5.7,21,18,21,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,67
+563,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,184,27,23.0,0.0,0.0,41,Vegetatif Aktif,5.8,28,11,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,49
+564,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.5,213,29,38.0,15.0,15.0,81,Generatif,6.2,22,25,18,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,9
+565,Langowan,Pertiwi,Andosol,Lempung,1.3,248,29,23.0,0.0,0.0,78,Generatif,6.3,29,11,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,27
+566,Sonder,NK Perkasa,Regosol,Pasir,1.2,184,28,23.0,0.0,0.0,85,Generatif,5.9,28,10,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,25
+567,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.2,218,27,0.0,0.0,0.0,37,Vegetatif Aktif,6.4,17,8,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,4.9,53
+568,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,1.1,174,26,15.0,15.0,15.0,70,Generatif,5.6,28,15,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,40
+569,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.5,236,28,0.0,0.0,0.0,39,Vegetatif Aktif,5.7,19,15,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,51
+570,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,3.0,159,29,38.0,15.0,15.0,33,Vegetatif Aktif,6.0,24,23,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,77
+571,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.8,197,28,38.0,15.0,15.0,28,Vegetatif Aktif,5.8,27,21,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,62
+572,Sonder,Pioneer Sweet Corn,Latosol,Lempung,0.5,229,28,15.0,15.0,15.0,17,Vegetatif Awal,5.6,15,26,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.9,73
+573,Tondano Selatan,Bisi 2,Latosol,Lempung,2.0,194,28,38.0,15.0,15.0,45,Vegetatif Aktif,6.3,22,16,16,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,70
+574,Tomohon,NK Perkasa,Andosol,Pasir,2.3,215,31,0.0,0.0,0.0,25,Vegetatif Awal,5.5,22,17,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,85
+575,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.8,158,28,23.0,0.0,0.0,34,Vegetatif Aktif,5.7,23,13,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,56
+576,Tondano Utara,Pertiwi,Andosol,Pasir,2.2,202,27,15.0,15.0,15.0,17,Vegetatif Awal,6.1,28,21,16,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,88
+577,Sonder,NK Perkasa,Andosol,Lempung,0.8,221,26,0.0,0.0,0.0,38,Vegetatif Aktif,5.7,23,20,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,72
+578,Airmadidi,NK Perkasa,Andosol,Lempung,0.7,227,29,38.0,15.0,15.0,12,Vegetatif Awal,6.3,21,23,16,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,98
+579,Kauditan,Pertiwi,Andosol,Lempung,1.3,177,31,23.0,0.0,0.0,71,Generatif,5.8,23,12,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,34
+580,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.1,216,27,15.0,15.0,15.0,33,Vegetatif Aktif,6.2,22,26,14,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,57
+581,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,207,27,23.0,0.0,0.0,61,Generatif,5.7,29,13,18,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,29
+582,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,191,26,15.0,15.0,15.0,78,Generatif,5.6,21,23,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,12
+583,Airmadidi,Bisi 2,Regosol,Pasir,0.9,180,26,23.0,0.0,0.0,56,Generatif,6.3,22,18,19,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,59
+584,Tondano Selatan,Pertiwi,Andosol,Pasir,2.5,182,28,15.0,15.0,15.0,66,Generatif,6.4,17,26,18,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,39
+585,Tomohon,NK Perkasa,Andosol,Pasir,2.6,236,31,0.0,0.0,0.0,31,Vegetatif Aktif,6.2,11,19,11,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,79
+586,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.4,191,28,38.0,15.0,15.0,24,Vegetatif Awal,6.4,35,26,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,91
+587,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.8,233,30,15.0,15.0,15.0,77,Generatif,5.8,28,17,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,13
+588,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,1.2,250,29,15.0,15.0,15.0,52,Vegetatif Aktif,6.3,15,25,16,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,58
+589,Tondano Selatan,Pertiwi,Andosol,Lempung,1.8,178,30,38.0,15.0,15.0,48,Vegetatif Aktif,6.6,34,26,20,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,57
+590,Tondano Utara,NK Perkasa,Regosol,Pasir,0.5,200,26,15.0,15.0,15.0,31,Vegetatif Aktif,6.2,19,26,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,79
+591,Kauditan,Bisi 2,Regosol,Pasir,1.2,231,28,15.0,15.0,15.0,13,Vegetatif Awal,6.0,16,23,20,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,6.0,102
+592,Tomohon,NK Perkasa,Andosol,Pasir,1.6,163,31,15.0,15.0,15.0,62,Generatif,6.4,28,16,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.6,48
+593,Kauditan,Pertiwi,Andosol,Pasir,2.8,233,28,0.0,0.0,0.0,21,Vegetatif Awal,5.9,14,8,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.7,84
+594,Langowan,Pertiwi,Andosol,Lempung,1.1,184,26,0.0,0.0,0.0,78,Generatif,6.5,21,17,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.9,27
+595,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,0.5,240,29,15.0,15.0,15.0,59,Generatif,6.6,20,16,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,56
+596,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,178,27,23.0,0.0,0.0,78,Generatif,5.5,25,14,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,12
+597,Kauditan,Bisi 2,Regosol,Lempung Berpasir,1.5,182,27,0.0,0.0,0.0,46,Vegetatif Aktif,6.6,16,18,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,69
+598,Airmadidi,NK Perkasa,Regosol,Pasir,0.6,217,29,38.0,15.0,15.0,53,Vegetatif Aktif,6.6,29,14,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.8,57
+599,Sonder,Pioneer Sweet Corn,Latosol,Lempung,0.9,218,27,38.0,15.0,15.0,82,Generatif,5.8,21,16,26,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,8
+600,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.1,238,29,23.0,0.0,0.0,43,Vegetatif Aktif,6.4,26,19,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,47
+601,Tombulu,Pertiwi,Andosol,Lempung,0.7,152,31,38.0,15.0,15.0,84,Generatif,5.8,27,15,26,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,21
+602,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.5,211,29,0.0,0.0,0.0,46,Vegetatif Aktif,6.1,16,18,13,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,44
+603,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,239,30,15.0,15.0,15.0,10,Vegetatif Awal,6.5,23,22,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,80
+604,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,2.4,183,29,23.0,0.0,0.0,58,Generatif,5.7,16,10,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.0,52
+605,Langowan,Pertiwi,Andosol,Lempung,2.5,245,27,38.0,15.0,15.0,78,Generatif,6.6,25,15,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.7,27
+606,Kauditan,NK Perkasa,Regosol,Pasir,1.7,185,26,23.0,0.0,0.0,76,Generatif,6.3,30,14,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,34
+607,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,183,29,38.0,15.0,15.0,18,Vegetatif Awal,5.7,28,17,14,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,72
+608,Langowan,Pertiwi,Andosol,Lempung,0.5,181,30,23.0,0.0,0.0,57,Generatif,5.9,26,8,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,48
+609,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.1,215,31,38.0,15.0,15.0,26,Vegetatif Aktif,6.4,35,22,23,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,64
+610,Tondano Selatan,NK Perkasa,Regosol,Pasir,0.8,225,29,15.0,15.0,15.0,52,Vegetatif Aktif,6.3,21,14,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,58
+611,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.0,225,28,23.0,0.0,0.0,16,Vegetatif Awal,6.2,23,16,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,74
+612,Kauditan,Pertiwi,Andosol,Lempung,2.0,220,29,0.0,0.0,0.0,62,Generatif,5.7,15,9,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,43
+613,Airmadidi,NK Perkasa,Andosol,Lempung,1.7,239,26,15.0,15.0,15.0,57,Generatif,5.8,16,22,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,53
+614,Kauditan,NK Perkasa,Regosol,Pasir,2.9,162,27,23.0,0.0,0.0,81,Generatif,5.7,29,19,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,29
+615,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.0,159,29,23.0,0.0,0.0,32,Vegetatif Aktif,6.7,29,12,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,58
+616,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.2,181,30,15.0,15.0,15.0,51,Vegetatif Aktif,6.6,20,14,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,39
+617,Langowan,Bisi 2,Regosol,Lempung Berpasir,2.3,161,28,15.0,15.0,15.0,66,Generatif,6.4,20,19,26,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,49
+618,Tomohon,NK Perkasa,Andosol,Pasir,1.3,163,28,0.0,0.0,0.0,44,Vegetatif Aktif,6.4,18,12,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.8,66
+619,Sonder,Bisi 2,Regosol,Lempung Berpasir,0.5,189,29,15.0,15.0,15.0,72,Generatif,5.6,25,19,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.9,43
+620,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,2.1,188,31,23.0,0.0,0.0,69,Generatif,5.7,19,12,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,41
+621,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.4,233,31,15.0,15.0,15.0,65,Generatif,6.5,22,15,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,25
+622,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,0.7,235,27,38.0,15.0,15.0,34,Vegetatif Aktif,5.7,31,17,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,76
+623,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.7,244,31,38.0,15.0,15.0,31,Vegetatif Aktif,6.2,36,22,15,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,59
+624,Tondano Utara,Pertiwi,Andosol,Lempung,1.1,183,28,0.0,0.0,0.0,67,Generatif,5.9,16,12,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.7,38
+625,Sonder,NK Perkasa,Andosol,Lempung,2.7,159,26,23.0,0.0,0.0,36,Vegetatif Aktif,6.6,28,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.7,74
+626,Tondano Selatan,Pertiwi,Andosol,Pasir,1.7,223,27,23.0,0.0,0.0,16,Vegetatif Awal,5.8,24,10,17,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,89
+627,Tondano Utara,Pertiwi,Andosol,Lempung,1.9,216,26,15.0,15.0,15.0,32,Vegetatif Aktif,5.9,20,19,23,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,73
+628,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.6,204,30,38.0,15.0,15.0,42,Vegetatif Aktif,6.1,30,22,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,73
+629,Sonder,Bisi 2,Regosol,Pasir,2.3,218,27,23.0,0.0,0.0,85,Generatif,5.7,29,13,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,30
+630,Sonder,NK Perkasa,Andosol,Pasir,1.8,193,26,15.0,15.0,15.0,62,Generatif,6.7,15,15,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,48
+631,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.6,180,29,15.0,15.0,15.0,49,Vegetatif Aktif,6.6,27,16,14,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,66
+632,Sonder,NK Perkasa,Andosol,Pasir,1.4,234,28,38.0,15.0,15.0,67,Generatif,5.6,21,23,18,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,43
+633,Tomohon,NK Perkasa,Andosol,Lempung,2.3,197,26,38.0,15.0,15.0,34,Vegetatif Aktif,5.6,36,20,20,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,76
+634,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.2,242,31,15.0,15.0,15.0,44,Vegetatif Aktif,6.2,25,20,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,46
+635,Airmadidi,Bisi 2,Regosol,Pasir,0.7,186,30,0.0,0.0,0.0,71,Generatif,5.9,16,17,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,44
+636,Sonder,NK Perkasa,Andosol,Lempung,2.9,242,30,15.0,15.0,15.0,75,Generatif,6.3,26,21,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.6,35
+637,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.0,184,27,38.0,15.0,15.0,72,Generatif,6.8,22,17,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.8,18
+638,Langowan,Pertiwi,Andosol,Lempung,2.9,239,26,15.0,15.0,15.0,77,Generatif,6.6,24,16,20,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,28
+639,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.8,213,31,15.0,15.0,15.0,35,Vegetatif Aktif,6.5,22,15,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,55
+640,Sonder,NK Perkasa,Andosol,Lempung,2.3,193,26,15.0,15.0,15.0,76,Generatif,6.4,18,16,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,34
+641,Tomohon,NK Perkasa,Andosol,Pasir,0.6,178,28,23.0,0.0,0.0,84,Generatif,5.7,24,19,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,26
+642,Tondano Selatan,Bisi 2,Latosol,Lempung,3.0,197,27,38.0,15.0,15.0,81,Generatif,6.1,30,26,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,34
+643,Sonder,Bisi 2,Regosol,Lempung Berpasir,2.8,213,30,15.0,15.0,15.0,68,Generatif,6.2,29,14,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,47
+644,Tondano Utara,Pertiwi,Andosol,Lempung,2.6,222,29,38.0,15.0,15.0,29,Vegetatif Aktif,6.0,23,24,22,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,76
+645,Tomohon,Bisi 2,Regosol,Pasir,1.2,237,28,38.0,15.0,15.0,33,Vegetatif Aktif,6.7,33,24,15,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,82
+646,Kauditan,Pertiwi,Andosol,Lempung,1.9,189,29,38.0,15.0,15.0,60,Generatif,5.8,29,25,26,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,45
+647,Sonder,NK Perkasa,Andosol,Lempung,2.8,162,27,15.0,15.0,15.0,78,Generatif,5.7,27,19,21,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,32
+648,Tombulu,NK Perkasa,Regosol,Pasir,1.2,241,30,23.0,0.0,0.0,59,Generatif,5.9,30,17,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,51
+649,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.9,236,29,15.0,15.0,15.0,70,Generatif,5.6,26,19,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,20
+650,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,2.6,202,31,0.0,0.0,0.0,14,Vegetatif Awal,5.6,19,17,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.0,96
+651,Tomohon,NK Perkasa,Andosol,Lempung,1.6,175,27,38.0,15.0,15.0,55,Vegetatif Aktif,6.1,27,21,22,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,55
+652,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,233,30,0.0,0.0,0.0,85,Generatif,6.5,10,11,21,Seimbang,Pertahankan Kondisi,0,0,0,90,4.9,5
+653,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,220,30,15.0,15.0,15.0,46,Vegetatif Aktif,5.6,20,21,16,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,44
+654,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.9,167,31,23.0,0.0,0.0,28,Vegetatif Aktif,6.2,24,18,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,62
+655,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.9,217,28,15.0,15.0,15.0,13,Vegetatif Awal,6.3,27,19,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,102
+656,Airmadidi,NK Perkasa,Regosol,Pasir,2.9,238,29,0.0,0.0,0.0,15,Vegetatif Awal,6.6,12,20,18,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.0,95
+657,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.7,204,29,23.0,0.0,0.0,38,Vegetatif Aktif,6.7,26,9,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.8,52
+658,Tomohon,NK Perkasa,Andosol,Pasir,2.4,234,29,23.0,0.0,0.0,19,Vegetatif Awal,6.0,22,20,17,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,91
+659,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.4,171,31,38.0,15.0,15.0,18,Vegetatif Awal,5.5,36,25,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,97
+660,Airmadidi,NK Perkasa,Regosol,Pasir,2.3,213,27,23.0,0.0,0.0,80,Generatif,5.8,27,12,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,30
+661,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.4,247,31,0.0,0.0,0.0,58,Generatif,6.0,20,18,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.0,32
+662,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,2.9,176,27,15.0,15.0,15.0,23,Vegetatif Awal,6.0,21,15,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,87
+663,Airmadidi,NK Perkasa,Andosol,Lempung,2.5,248,29,0.0,0.0,0.0,83,Generatif,6.6,13,13,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,27
+664,Langowan,Pertiwi,Andosol,Lempung,1.9,202,31,15.0,15.0,15.0,41,Vegetatif Aktif,6.4,29,24,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,64
+665,Sonder,Pioneer Sweet Corn,Latosol,Lempung,0.5,153,26,23.0,0.0,0.0,22,Vegetatif Awal,6.7,18,9,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,6.0,68
+666,Airmadidi,NK Perkasa,Regosol,Pasir,2.8,241,26,23.0,0.0,0.0,73,Generatif,5.9,30,19,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,37
+667,Tondano Utara,Bisi 2,Latosol,Lempung,1.4,243,29,38.0,15.0,15.0,84,Generatif,6.8,24,19,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,31
+668,Tondano Selatan,Pertiwi,Andosol,Lempung,2.9,197,30,38.0,15.0,15.0,23,Vegetatif Awal,6.5,28,18,16,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,82
+669,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.4,190,29,15.0,15.0,15.0,56,Generatif,6.6,21,18,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,34
+670,Sonder,NK Perkasa,Regosol,Lempung Berpasir,0.7,159,27,38.0,15.0,15.0,71,Generatif,6.6,28,19,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,39
+671,Tomohon,Bisi 2,Regosol,Lempung Berpasir,2.4,174,31,38.0,15.0,15.0,23,Vegetatif Awal,6.0,29,25,14,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,92
+672,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,1.1,196,30,15.0,15.0,15.0,44,Vegetatif Aktif,5.7,24,25,24,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,66
+673,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.4,245,31,38.0,15.0,15.0,25,Vegetatif Awal,6.1,22,20,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,65
+674,Tomohon,NK Perkasa,Regosol,Pasir,1.3,236,26,0.0,0.0,0.0,18,Vegetatif Awal,5.8,20,11,15,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,92
+675,Langowan,Bisi 2,Regosol,Lempung Berpasir,0.6,162,30,15.0,15.0,15.0,82,Generatif,6.2,29,20,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,33
+676,Tondano Utara,Bisi 2,Latosol,Lempung,1.4,212,27,0.0,0.0,0.0,73,Generatif,6.2,10,15,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,42
+677,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.5,233,27,38.0,15.0,15.0,60,Generatif,6.4,30,16,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.9,30
+678,Tombulu,Pertiwi,Andosol,Lempung,0.8,248,29,38.0,15.0,15.0,49,Vegetatif Aktif,5.6,30,17,23,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,56
+679,Tondano Selatan,Bisi 2,Regosol,Pasir,2.4,239,31,0.0,0.0,0.0,67,Generatif,6.3,17,19,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,48
+680,Tondano Selatan,Bisi 2,Latosol,Lempung,2.4,195,31,0.0,0.0,0.0,76,Generatif,6.3,14,12,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,4.9,39
+681,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.7,225,30,0.0,0.0,0.0,58,Generatif,6.0,19,8,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,57
+682,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,2.6,168,29,38.0,15.0,15.0,14,Vegetatif Awal,5.7,27,20,14,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,96
+683,Tondano Utara,Pertiwi,Andosol,Lempung,1.3,175,29,0.0,0.0,0.0,60,Generatif,6.3,23,12,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.7,45
+684,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.7,187,28,23.0,0.0,0.0,49,Vegetatif Aktif,5.5,18,8,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.8,66
+685,Langowan,Pertiwi,Andosol,Pasir,2.6,238,31,23.0,0.0,0.0,13,Vegetatif Awal,6.2,18,17,12,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.6,92
+686,Tondano Selatan,NK Perkasa,Regosol,Pasir,1.2,151,29,23.0,0.0,0.0,79,Generatif,6.2,28,12,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,31
+687,Tombulu,Pertiwi,Andosol,Pasir,1.9,226,28,23.0,0.0,0.0,25,Vegetatif Awal,6.4,19,19,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.7,80
+688,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.0,184,28,15.0,15.0,15.0,64,Generatif,5.7,26,23,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,26
+689,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.5,188,29,38.0,15.0,15.0,56,Generatif,5.5,28,23,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,34
+690,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.7,195,30,23.0,0.0,0.0,45,Vegetatif Aktif,6.7,19,16,10,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,70
+691,Airmadidi,NK Perkasa,Andosol,Pasir,2.0,204,27,0.0,0.0,0.0,55,Vegetatif Aktif,5.9,12,19,12,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,55
+692,Airmadidi,NK Perkasa,Andosol,Pasir,2.2,218,29,38.0,15.0,15.0,52,Vegetatif Aktif,6.1,36,15,26,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,58
+693,Tombulu,Pertiwi,Andosol,Pasir,0.8,231,29,15.0,15.0,15.0,48,Vegetatif Aktif,6.0,23,18,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,57
+694,Tombulu,NK Perkasa,Regosol,Pasir,2.3,151,31,0.0,0.0,0.0,56,Generatif,6.0,11,17,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.1,54
+695,Tombulu,Pertiwi,Andosol,Lempung,1.7,190,29,0.0,0.0,0.0,74,Generatif,6.1,12,13,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.9,31
+696,Tondano Selatan,Pertiwi,Andosol,Pasir,1.6,232,28,38.0,15.0,15.0,70,Generatif,5.8,36,17,21,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,35
+697,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.6,217,26,15.0,15.0,15.0,40,Vegetatif Aktif,5.6,18,22,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,50
+698,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,2.0,249,30,15.0,15.0,15.0,22,Vegetatif Awal,5.8,20,22,15,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,88
+699,Tombulu,Pertiwi,Andosol,Pasir,2.9,201,31,15.0,15.0,15.0,19,Vegetatif Awal,6.3,18,21,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.7,86
+700,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,248,26,15.0,15.0,15.0,25,Vegetatif Awal,6.0,25,26,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,65
+701,Tondano Selatan,Bisi 2,Latosol,Lempung,2.3,155,28,38.0,15.0,15.0,52,Vegetatif Aktif,5.5,28,16,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,63
+702,Kauditan,NK Perkasa,Regosol,Pasir,1.3,190,31,23.0,0.0,0.0,55,Vegetatif Aktif,6.6,25,9,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.0,55
+703,Tombulu,Pertiwi,Andosol,Lempung,1.8,189,27,15.0,15.0,15.0,32,Vegetatif Aktif,6.5,28,17,23,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,73
+704,Langowan,NK Perkasa,Regosol,Lempung Berpasir,2.7,177,29,38.0,15.0,15.0,10,Vegetatif Awal,5.8,33,25,24,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,100
+705,Kauditan,Bisi 2,Regosol,Lempung Berpasir,2.7,173,31,15.0,15.0,15.0,74,Generatif,5.5,23,20,23,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,41
+706,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,2.3,232,30,15.0,15.0,15.0,25,Vegetatif Awal,5.6,20,24,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,85
+707,Sonder,NK Perkasa,Andosol,Pasir,2.6,179,28,0.0,0.0,0.0,85,Generatif,5.7,14,10,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,25
+708,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,0.8,190,31,0.0,0.0,0.0,66,Generatif,6.4,11,16,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.0,44
+709,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.9,241,26,0.0,0.0,0.0,26,Vegetatif Aktif,5.7,11,9,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,64
+710,Tondano Utara,Pertiwi,Andosol,Lempung,1.5,177,26,0.0,0.0,0.0,73,Generatif,5.9,19,9,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,32
+711,Kauditan,Bisi 2,Regosol,Lempung Berpasir,1.6,244,31,15.0,15.0,15.0,40,Vegetatif Aktif,6.1,23,20,16,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,75
+712,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.4,186,28,38.0,15.0,15.0,47,Vegetatif Aktif,6.0,28,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,6.9,68
+713,Airmadidi,Bisi 2,Regosol,Pasir,2.9,177,27,38.0,15.0,15.0,56,Generatif,5.8,22,17,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,59
+714,Langowan,NK Perkasa,Regosol,Pasir,1.1,216,30,38.0,15.0,15.0,14,Vegetatif Awal,6.1,24,18,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,96
+715,Tondano Selatan,Pertiwi,Andosol,Lempung,0.9,226,29,23.0,0.0,0.0,75,Generatif,5.9,24,13,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,30
+716,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.8,155,27,15.0,15.0,15.0,16,Vegetatif Awal,5.9,19,20,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.8,99
+717,Kauditan,Bisi 2,Regosol,Pasir,2.7,171,26,0.0,0.0,0.0,33,Vegetatif Aktif,6.1,11,9,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,4.9,82
+718,Langowan,NK Perkasa,Regosol,Lempung Berpasir,2.5,188,31,23.0,0.0,0.0,30,Vegetatif Aktif,5.8,18,14,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,80
+719,Tombulu,Pertiwi,Andosol,Lempung,1.8,241,29,0.0,0.0,0.0,50,Vegetatif Aktif,6.4,15,9,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.8,55
+720,Tondano Utara,NK Perkasa,Regosol,Pasir,2.1,225,27,0.0,0.0,0.0,76,Generatif,6.4,22,13,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.0,34
+721,Langowan,Pioneer Sweet Corn,Latosol,Lempung,0.7,228,28,38.0,15.0,15.0,68,Generatif,6.3,26,21,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,22
+722,Tomohon,NK Perkasa,Andosol,Lempung,1.3,150,28,23.0,0.0,0.0,19,Vegetatif Awal,6.5,18,9,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.8,91
+723,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.9,222,29,23.0,0.0,0.0,45,Vegetatif Aktif,6.6,31,11,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,6.0,70
+724,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.2,215,29,23.0,0.0,0.0,29,Vegetatif Aktif,6.6,27,17,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,81
+725,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.0,238,26,23.0,0.0,0.0,67,Generatif,5.8,31,18,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,48
+726,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.6,217,31,15.0,15.0,15.0,50,Vegetatif Aktif,5.6,22,17,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,65
+727,Kauditan,Bisi 2,Regosol,Pasir,1.4,176,31,38.0,15.0,15.0,83,Generatif,5.5,27,14,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,32
+728,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.5,155,30,23.0,0.0,0.0,56,Generatif,6.0,25,12,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,34
+729,Kauditan,Pertiwi,Andosol,Lempung,2.2,159,28,23.0,0.0,0.0,12,Vegetatif Awal,5.9,19,11,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.6,93
+730,Langowan,Pertiwi,Andosol,Pasir,2.8,205,26,38.0,15.0,15.0,15,Vegetatif Awal,5.9,23,20,18,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,90
+731,Tomohon,Bisi 2,Regosol,Lempung Berpasir,0.8,219,31,38.0,15.0,15.0,61,Generatif,5.6,35,18,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,54
+732,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.0,202,28,0.0,0.0,0.0,39,Vegetatif Aktif,6.0,23,16,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,51
+733,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.5,212,29,23.0,0.0,0.0,57,Generatif,6.1,30,8,22,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,33
+734,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,250,26,15.0,15.0,15.0,41,Vegetatif Aktif,6.5,14,15,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,49
+735,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.6,200,29,15.0,15.0,15.0,76,Generatif,5.7,15,14,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,14
+736,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,2.4,169,30,38.0,15.0,15.0,75,Generatif,6.4,32,17,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,35
+737,Tombulu,Pertiwi,Andosol,Lempung,1.2,247,31,15.0,15.0,15.0,82,Generatif,6.7,27,15,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,23
+738,Langowan,Pertiwi,Andosol,Lempung,2.1,197,30,0.0,0.0,0.0,11,Vegetatif Awal,6.3,13,16,10,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.7,94
+739,Tondano Utara,Bisi 2,Regosol,Pasir,2.6,198,30,15.0,15.0,15.0,82,Generatif,5.9,24,24,23,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,33
+740,Tombulu,Pertiwi,Andosol,Lempung,2.9,155,27,38.0,15.0,15.0,62,Generatif,5.9,32,23,19,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,43
+741,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.3,163,31,0.0,0.0,0.0,42,Vegetatif Aktif,5.8,11,11,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.0,73
+742,Langowan,NK Perkasa,Regosol,Pasir,2.7,243,31,0.0,0.0,0.0,18,Vegetatif Awal,5.8,12,20,14,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.1,92
+743,Tombulu,Bisi 2,Regosol,Pasir,2.0,167,30,38.0,15.0,15.0,85,Generatif,5.6,25,18,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,30
+744,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,1.2,233,30,15.0,15.0,15.0,36,Vegetatif Aktif,6.0,23,23,26,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,74
+745,Kauditan,Pertiwi,Andosol,Pasir,0.7,220,26,0.0,0.0,0.0,71,Generatif,5.6,16,10,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,34
+746,Tombulu,NK Perkasa,Regosol,Pasir,2.0,158,31,38.0,15.0,15.0,69,Generatif,5.6,27,26,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,41
+747,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,243,30,0.0,0.0,0.0,10,Vegetatif Awal,6.6,14,18,22,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.1,80
+748,Kauditan,Pertiwi,Andosol,Pasir,1.3,220,30,38.0,15.0,15.0,14,Vegetatif Awal,6.1,33,25,14,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,91
+749,Sonder,NK Perkasa,Andosol,Pasir,2.1,183,28,0.0,0.0,0.0,21,Vegetatif Awal,6.0,23,8,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,89
+750,Tomohon,NK Perkasa,Regosol,Lempung Berpasir,0.6,224,31,15.0,15.0,15.0,68,Generatif,6.6,20,18,21,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,42
+751,Tondano Selatan,Pertiwi,Andosol,Pasir,1.1,177,26,15.0,15.0,15.0,28,Vegetatif Aktif,6.4,14,23,26,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,77
+752,Tomohon,NK Perkasa,Regosol,Pasir,2.3,229,30,38.0,15.0,15.0,45,Vegetatif Aktif,6.3,29,24,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,65
+753,Kauditan,Pertiwi,Andosol,Lempung,2.3,250,31,0.0,0.0,0.0,23,Vegetatif Awal,6.5,21,13,13,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,82
+754,Tomohon,NK Perkasa,Regosol,Pasir,0.5,239,26,23.0,0.0,0.0,38,Vegetatif Aktif,6.7,19,15,20,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,72
+755,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.0,194,27,23.0,0.0,0.0,46,Vegetatif Aktif,6.6,21,11,16,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,6.0,69
+756,Tondano Selatan,Pertiwi,Andosol,Lempung,0.8,212,26,38.0,15.0,15.0,68,Generatif,6.2,31,23,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.7,37
+757,Tondano Utara,Bisi 2,Latosol,Lempung,1.8,165,27,38.0,15.0,15.0,33,Vegetatif Aktif,6.2,28,18,17,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,82
+758,Tomohon,NK Perkasa,Regosol,Pasir,2.3,211,31,23.0,0.0,0.0,75,Generatif,6.7,21,12,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,35
+759,Sonder,Bisi 2,Regosol,Lempung Berpasir,0.7,173,29,15.0,15.0,15.0,24,Vegetatif Awal,6.3,17,20,20,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.8,91
+760,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.6,159,29,15.0,15.0,15.0,26,Vegetatif Aktif,6.4,17,20,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,64
+761,Langowan,Pertiwi,Andosol,Pasir,2.0,236,31,23.0,0.0,0.0,57,Generatif,6.7,25,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,48
+762,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,0.7,232,29,38.0,15.0,15.0,79,Generatif,6.5,22,21,26,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,31
+763,Tombulu,Bisi 2,Regosol,Pasir,2.1,232,29,38.0,15.0,15.0,16,Vegetatif Awal,5.5,22,16,14,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,99
+764,Kauditan,Pertiwi,Andosol,Pasir,0.8,243,27,23.0,0.0,0.0,53,Vegetatif Aktif,6.3,20,14,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.7,52
+765,Tombulu,Pertiwi,Andosol,Lempung,1.1,169,26,15.0,15.0,15.0,67,Generatif,6.3,16,22,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,38
+766,Langowan,Pertiwi,Andosol,Pasir,1.8,170,31,38.0,15.0,15.0,13,Vegetatif Awal,5.8,35,21,18,Seimbang,Pertahankan Kondisi,0,0,0,105,7.7,92
+767,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.5,229,27,38.0,15.0,15.0,10,Vegetatif Awal,5.8,25,15,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,80
+768,Kauditan,Pertiwi,Andosol,Pasir,1.5,223,29,23.0,0.0,0.0,55,Vegetatif Aktif,5.5,28,10,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.8,50
+769,Kauditan,Bisi 2,Regosol,Pasir,2.6,176,30,15.0,15.0,15.0,53,Vegetatif Aktif,5.9,14,23,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,62
+770,Tombulu,Pertiwi,Andosol,Pasir,2.8,183,30,15.0,15.0,15.0,41,Vegetatif Aktif,5.8,21,14,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.8,64
+771,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,173,26,38.0,15.0,15.0,25,Vegetatif Awal,6.0,31,19,21,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,65
+772,Kauditan,Pertiwi,Andosol,Lempung,2.3,241,27,0.0,0.0,0.0,76,Generatif,6.2,12,16,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.7,29
+773,Tondano Utara,Pertiwi,Andosol,Lempung,1.5,241,31,15.0,15.0,15.0,13,Vegetatif Awal,5.5,21,20,16,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,92
+774,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.1,246,27,0.0,0.0,0.0,11,Vegetatif Awal,6.1,24,16,11,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,79
+775,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.6,171,27,15.0,15.0,15.0,15,Vegetatif Awal,5.6,15,14,14,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.9,75
+776,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,0.6,228,31,38.0,15.0,15.0,13,Vegetatif Awal,6.7,24,20,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.7,77
+777,Tombulu,Bisi 2,Regosol,Lempung Berpasir,1.8,184,29,23.0,0.0,0.0,65,Generatif,6.1,25,10,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,50
+778,Langowan,Pertiwi,Andosol,Pasir,2.5,207,29,15.0,15.0,15.0,57,Generatif,6.8,16,22,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,48
+779,Langowan,Pertiwi,Andosol,Lempung,0.7,191,28,15.0,15.0,15.0,60,Generatif,6.1,29,20,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,45
+780,Sonder,NK Perkasa,Regosol,Pasir,2.2,188,28,23.0,0.0,0.0,59,Generatif,6.2,16,20,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,51
+781,Tondano Selatan,Pertiwi,Andosol,Lempung,1.3,248,30,23.0,0.0,0.0,49,Vegetatif Aktif,5.8,16,11,19,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.8,56
+782,Tomohon,NK Perkasa,Andosol,Lempung,2.5,156,30,38.0,15.0,15.0,28,Vegetatif Aktif,6.7,22,17,14,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,82
+783,Sonder,Bisi 2,Regosol,Pasir,0.8,246,28,23.0,0.0,0.0,15,Vegetatif Awal,5.9,28,15,16,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,100
+784,Sonder,NK Perkasa,Regosol,Lempung Berpasir,1.3,196,26,38.0,15.0,15.0,24,Vegetatif Awal,5.9,22,16,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,86
+785,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,0.8,169,29,0.0,0.0,0.0,60,Generatif,6.0,16,16,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,55
+786,Airmadidi,NK Perkasa,Regosol,Pasir,1.2,227,28,0.0,0.0,0.0,47,Vegetatif Aktif,6.2,17,13,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.1,63
+787,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.6,239,31,15.0,15.0,15.0,15,Vegetatif Awal,6.7,17,17,25,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,6.0,75
+788,Airmadidi,NK Perkasa,Regosol,Pasir,0.6,239,29,38.0,15.0,15.0,21,Vegetatif Awal,6.0,36,25,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,89
+789,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.4,215,31,15.0,15.0,15.0,84,Generatif,6.7,26,26,23,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,31
+790,Tondano Utara,Bisi 2,Latosol,Lempung,1.4,182,26,38.0,15.0,15.0,70,Generatif,6.6,36,15,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,45
+791,Tondano Utara,Bisi 2,Regosol,Pasir,1.3,188,27,23.0,0.0,0.0,60,Generatif,6.6,29,8,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,55
+792,Tombulu,Pertiwi,Andosol,Pasir,0.9,182,31,23.0,0.0,0.0,12,Vegetatif Awal,6.2,28,20,16,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,93
+793,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.1,169,28,38.0,15.0,15.0,20,Vegetatif Awal,5.9,30,25,19,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,95
+794,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,1.6,162,30,38.0,15.0,15.0,61,Generatif,5.6,31,14,26,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,49
+795,Langowan,Pertiwi,Andosol,Lempung,1.9,250,27,0.0,0.0,0.0,20,Vegetatif Awal,5.5,11,12,12,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.8,85
+796,Tondano Utara,Bisi 2,Latosol,Lempung,1.2,177,30,15.0,15.0,15.0,11,Vegetatif Awal,5.7,18,25,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,6.0,104
+797,Sonder,Bisi 2,Regosol,Lempung Berpasir,2.5,159,31,0.0,0.0,0.0,33,Vegetatif Aktif,5.8,18,19,17,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,82
+798,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.8,225,31,15.0,15.0,15.0,61,Generatif,5.8,22,14,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,29
+799,Tomohon,NK Perkasa,Andosol,Lempung,2.4,245,26,23.0,0.0,0.0,41,Vegetatif Aktif,6.8,31,18,19,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,69
+800,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.2,187,30,38.0,15.0,15.0,66,Generatif,6.1,26,20,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,49
+801,Tondano Utara,Pertiwi,Andosol,Pasir,0.7,218,30,23.0,0.0,0.0,58,Generatif,6.3,18,19,13,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,47
+802,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.3,220,29,0.0,0.0,0.0,34,Vegetatif Aktif,5.9,18,19,13,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,56
+803,Langowan,Pertiwi,Andosol,Pasir,1.6,225,27,0.0,0.0,0.0,19,Vegetatif Awal,6.6,24,11,11,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,86
+804,Tondano Utara,Bisi 2,Latosol,Lempung,0.8,211,29,38.0,15.0,15.0,62,Generatif,5.9,34,14,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,53
+805,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.5,190,28,15.0,15.0,15.0,60,Generatif,6.5,21,24,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,30
+806,Airmadidi,NK Perkasa,Andosol,Lempung,1.2,240,30,38.0,15.0,15.0,38,Vegetatif Aktif,6.2,29,18,22,Seimbang,Pertahankan Kondisi,0,0,0,110,7.5,72
+807,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,207,26,38.0,15.0,15.0,82,Generatif,6.1,35,22,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.8,8
+808,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.4,173,28,23.0,0.0,0.0,45,Vegetatif Aktif,6.6,20,12,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.9,70
+809,Kauditan,Pertiwi,Andosol,Lempung,1.4,169,26,23.0,0.0,0.0,77,Generatif,6.3,25,14,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,28
+810,Tondano Utara,Bisi 2,Latosol,Lempung,2.5,220,27,38.0,15.0,15.0,59,Generatif,5.6,25,18,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,56
+811,Airmadidi,NK Perkasa,Andosol,Pasir,2.5,175,28,0.0,0.0,0.0,25,Vegetatif Awal,6.2,11,8,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.8,85
+812,Kauditan,NK Perkasa,Regosol,Lempung Berpasir,1.8,228,28,38.0,15.0,15.0,76,Generatif,6.0,29,20,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,34
+813,Airmadidi,NK Perkasa,Andosol,Lempung,1.5,198,31,38.0,15.0,15.0,52,Vegetatif Aktif,5.7,28,21,15,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,58
+814,Langowan,Pioneer Sweet Corn,Latosol,Lempung,0.7,198,29,0.0,0.0,0.0,67,Generatif,6.3,25,14,19,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,23
+815,Sonder,NK Perkasa,Andosol,Pasir,1.7,151,29,23.0,0.0,0.0,84,Generatif,6.5,24,20,18,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,26
+816,Kauditan,Pertiwi,Andosol,Pasir,2.6,241,28,0.0,0.0,0.0,21,Vegetatif Awal,6.5,20,9,22,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,84
+817,Tomohon,NK Perkasa,Andosol,Pasir,0.7,241,27,0.0,0.0,0.0,27,Vegetatif Aktif,5.6,19,9,14,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,83
+818,Kauditan,Pertiwi,Andosol,Pasir,2.1,183,30,38.0,15.0,15.0,55,Vegetatif Aktif,6.7,35,25,20,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,50
+819,Sonder,Bisi 2,Regosol,Pasir,2.2,197,28,23.0,0.0,0.0,85,Generatif,5.7,26,18,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,30
+820,Langowan,Pertiwi,Andosol,Pasir,0.7,202,29,15.0,15.0,15.0,44,Vegetatif Aktif,6.3,15,22,16,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,61
+821,Tondano Selatan,Bisi 2,Regosol,Pasir,2.2,244,28,38.0,15.0,15.0,85,Generatif,6.3,30,16,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.9,30
+822,Sonder,NK Perkasa,Regosol,Pasir,2.0,233,31,15.0,15.0,15.0,45,Vegetatif Aktif,6.4,24,19,24,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,65
+823,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.1,224,27,23.0,0.0,0.0,23,Vegetatif Awal,6.6,25,20,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,67
+824,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.6,210,30,38.0,15.0,15.0,34,Vegetatif Aktif,5.6,35,20,14,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,56
+825,Langowan,Pertiwi,Andosol,Pasir,0.5,245,31,0.0,0.0,0.0,40,Vegetatif Aktif,6.6,22,14,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.9,65
+826,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.5,183,31,15.0,15.0,15.0,64,Generatif,5.7,18,24,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,26
+827,Langowan,Pertiwi,Andosol,Lempung,0.9,236,29,15.0,15.0,15.0,18,Vegetatif Awal,6.4,25,20,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.6,87
+828,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.1,196,31,23.0,0.0,0.0,37,Vegetatif Aktif,6.3,18,8,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,53
+829,Tondano Utara,Bisi 2,Regosol,Pasir,2.1,157,26,0.0,0.0,0.0,80,Generatif,6.3,22,11,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,35
+830,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,171,30,15.0,15.0,15.0,81,Generatif,5.7,25,23,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,9
+831,Tondano Utara,Pertiwi,Andosol,Pasir,0.6,219,27,0.0,0.0,0.0,18,Vegetatif Awal,6.5,19,8,17,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,5.9,87
+832,Langowan,Pertiwi,Andosol,Pasir,1.8,180,31,38.0,15.0,15.0,64,Generatif,5.6,30,17,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.6,41
+833,Tondano Selatan,Bisi 2,Regosol,Pasir,2.2,170,30,15.0,15.0,15.0,25,Vegetatif Awal,6.0,24,15,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,90
+834,Tomohon,NK Perkasa,Regosol,Pasir,0.8,236,30,15.0,15.0,15.0,26,Vegetatif Aktif,6.2,29,25,22,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,84
+835,Tomohon,Bisi 2,Regosol,Pasir,1.8,201,26,0.0,0.0,0.0,30,Vegetatif Aktif,6.0,22,13,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.0,85
+836,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,221,27,38.0,15.0,15.0,27,Vegetatif Aktif,6.6,30,21,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,63
+837,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.3,180,29,38.0,15.0,15.0,77,Generatif,5.9,30,18,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,38
+838,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.0,206,28,15.0,15.0,15.0,63,Generatif,5.9,21,26,25,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,27
+839,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.4,229,31,15.0,15.0,15.0,32,Vegetatif Aktif,6.2,21,16,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,58
+840,Sonder,NK Perkasa,Andosol,Lempung,2.3,179,29,15.0,15.0,15.0,13,Vegetatif Awal,6.1,20,24,24,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,97
+841,Tombulu,Bisi 2,Regosol,Lempung Berpasir,0.9,201,28,15.0,15.0,15.0,34,Vegetatif Aktif,6.2,20,25,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,81
+842,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,0.7,172,28,0.0,0.0,0.0,65,Generatif,5.7,20,17,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,25
+843,Airmadidi,NK Perkasa,Andosol,Lempung,1.7,152,31,23.0,0.0,0.0,36,Vegetatif Aktif,6.0,25,19,12,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,74
+844,Sonder,NK Perkasa,Andosol,Pasir,2.2,220,27,38.0,15.0,15.0,58,Generatif,6.0,32,24,19,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,52
+845,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.2,247,27,38.0,15.0,15.0,45,Vegetatif Aktif,6.0,21,18,22,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,70
+846,Tondano Utara,Bisi 2,Latosol,Lempung,2.5,240,27,0.0,0.0,0.0,39,Vegetatif Aktif,6.0,22,9,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,76
+847,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,190,30,23.0,0.0,0.0,73,Generatif,5.6,17,19,18,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,17
+848,Tombulu,NK Perkasa,Regosol,Lempung Berpasir,2.4,234,30,0.0,0.0,0.0,69,Generatif,5.8,19,14,18,Seimbang,Pertahankan Kondisi,0,0,0,110,5.0,41
+849,Sonder,NK Perkasa,Andosol,Pasir,2.2,199,27,0.0,0.0,0.0,44,Vegetatif Aktif,5.6,16,15,10,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,66
+850,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.6,224,31,38.0,15.0,15.0,51,Vegetatif Aktif,6.6,28,15,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,39
+851,Tondano Selatan,Pertiwi,Andosol,Pasir,2.2,250,29,38.0,15.0,15.0,69,Generatif,6.0,24,15,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.7,36
+852,Tondano Utara,Bisi 2,Latosol,Lempung,1.6,162,31,15.0,15.0,15.0,54,Vegetatif Aktif,5.5,24,15,26,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,61
+853,Tomohon,Bisi 2,Regosol,Pasir,0.7,185,31,0.0,0.0,0.0,39,Vegetatif Aktif,5.6,10,10,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,4.9,76
+854,Langowan,Pertiwi,Andosol,Pasir,1.0,159,28,23.0,0.0,0.0,78,Generatif,6.7,23,16,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,27
+855,Sonder,NK Perkasa,Andosol,Lempung,0.7,223,28,15.0,15.0,15.0,57,Generatif,6.5,17,16,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,53
+856,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.5,210,30,23.0,0.0,0.0,33,Vegetatif Aktif,6.5,18,14,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,6.0,57
+857,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,246,29,0.0,0.0,0.0,32,Vegetatif Aktif,5.7,19,11,10,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,58
+858,Airmadidi,NK Perkasa,Andosol,Lempung,0.6,183,30,38.0,15.0,15.0,44,Vegetatif Aktif,5.8,33,18,21,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,66
+859,Tondano Utara,Bisi 2,Regosol,Pasir,2.8,182,30,0.0,0.0,0.0,50,Vegetatif Aktif,6.5,23,15,13,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,65
+860,Sonder,Pioneer Sweet Corn,Latosol,Lempung,1.4,174,31,38.0,15.0,15.0,63,Generatif,6.3,27,25,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.8,27
+861,Tondano Selatan,Bisi 2,Regosol,Pasir,1.0,161,27,0.0,0.0,0.0,47,Vegetatif Aktif,6.1,16,10,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.1,68
+862,Airmadidi,NK Perkasa,Regosol,Pasir,1.9,166,29,0.0,0.0,0.0,22,Vegetatif Awal,5.9,19,18,13,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,5.0,88
+863,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,0.9,211,30,38.0,15.0,15.0,67,Generatif,6.4,21,26,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,48
+864,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.9,184,31,38.0,15.0,15.0,80,Generatif,6.1,36,14,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,35
+865,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,247,26,0.0,0.0,0.0,36,Vegetatif Aktif,5.8,21,14,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,4.9,54
+866,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.9,178,27,15.0,15.0,15.0,76,Generatif,5.9,18,18,18,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,14
+867,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,2.6,183,30,0.0,0.0,0.0,24,Vegetatif Awal,5.7,20,13,14,Seimbang,Pertahankan Kondisi,0,0,0,115,5.0,91
+868,Tomohon,NK Perkasa,Regosol,Pasir,0.9,193,28,15.0,15.0,15.0,71,Generatif,6.5,17,24,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,39
+869,Airmadidi,NK Perkasa,Andosol,Lempung,2.1,194,26,15.0,15.0,15.0,19,Vegetatif Awal,6.0,15,24,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.6,91
+870,Airmadidi,NK Perkasa,Andosol,Pasir,2.5,164,28,23.0,0.0,0.0,77,Generatif,6.2,16,20,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,33
+871,Tomohon,Bisi 2,Regosol,Lempung Berpasir,1.0,150,28,23.0,0.0,0.0,62,Generatif,6.3,18,12,20,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,53
+872,Tomohon,NK Perkasa,Regosol,Pasir,2.4,154,31,15.0,15.0,15.0,13,Vegetatif Awal,5.6,26,17,14,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,97
+873,Sonder,NK Perkasa,Andosol,Lempung,0.6,175,28,23.0,0.0,0.0,84,Generatif,6.6,19,20,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.7,26
+874,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,2.2,245,28,23.0,0.0,0.0,56,Generatif,6.3,19,15,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,59
+875,Airmadidi,NK Perkasa,Andosol,Lempung,1.3,195,30,15.0,15.0,15.0,19,Vegetatif Awal,6.2,24,14,14,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,91
+876,Tomohon,NK Perkasa,Andosol,Lempung,1.5,221,31,23.0,0.0,0.0,52,Vegetatif Aktif,5.9,17,10,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.7,58
+877,Tondano Selatan,Bisi 2,Regosol,Pasir,1.6,205,26,0.0,0.0,0.0,19,Vegetatif Awal,5.8,21,14,18,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,96
+878,Tondano Utara,NK Perkasa,Regosol,Pasir,0.8,246,28,38.0,15.0,15.0,34,Vegetatif Aktif,5.5,29,16,15,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,76
+879,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.1,246,29,23.0,0.0,0.0,21,Vegetatif Awal,6.4,26,14,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,69
+880,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,229,28,15.0,15.0,15.0,32,Vegetatif Aktif,6.4,29,20,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,58
+881,Langowan,Pertiwi,Andosol,Lempung,0.7,234,27,15.0,15.0,15.0,85,Generatif,6.7,20,16,25,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,20
+882,Tondano Utara,Bisi 2,Latosol,Lempung,2.2,209,28,15.0,15.0,15.0,70,Generatif,5.7,19,22,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,45
+883,Langowan,Bisi 2,Regosol,Pasir,1.3,240,28,0.0,0.0,0.0,26,Vegetatif Aktif,6.6,17,14,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,4.9,89
+884,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.9,173,31,0.0,0.0,0.0,65,Generatif,6.0,25,20,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.1,25
+885,Tondano Utara,Bisi 2,Regosol,Pasir,1.9,220,29,38.0,15.0,15.0,17,Vegetatif Awal,6.7,22,21,25,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,98
+886,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,1.0,241,31,38.0,15.0,15.0,44,Vegetatif Aktif,6.4,36,23,16,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,71
+887,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.9,235,26,15.0,15.0,15.0,85,Generatif,6.3,21,15,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,5
+888,Tondano Selatan,Pertiwi,Andosol,Lempung,1.0,211,31,38.0,15.0,15.0,14,Vegetatif Awal,6.8,35,23,20,Seimbang,Pertahankan Kondisi,0,0,0,105,7.6,91
+889,Tombulu,Pertiwi,Andosol,Pasir,1.1,199,31,23.0,0.0,0.0,37,Vegetatif Aktif,5.7,29,12,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.7,68
+890,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.9,210,30,0.0,0.0,0.0,44,Vegetatif Aktif,6.1,24,10,15,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,46
+891,Tondano Utara,Pertiwi,Andosol,Lempung,2.8,217,26,0.0,0.0,0.0,24,Vegetatif Awal,6.4,24,11,14,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,81
+892,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.9,211,27,0.0,0.0,0.0,55,Vegetatif Aktif,6.6,25,13,13,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,35
+893,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.5,196,29,38.0,15.0,15.0,63,Generatif,5.5,34,25,24,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,52
+894,Tondano Selatan,Pertiwi,Andosol,Pasir,1.6,187,26,23.0,0.0,0.0,79,Generatif,6.1,24,17,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,26
+895,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,1.1,190,31,23.0,0.0,0.0,56,Generatif,6.2,23,13,11,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.9,34
+896,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.7,170,29,38.0,15.0,15.0,25,Vegetatif Awal,6.4,26,21,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,90
+897,Sonder,Bisi 2,Regosol,Lempung Berpasir,0.8,225,26,23.0,0.0,0.0,11,Vegetatif Awal,6.6,22,9,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,104
+898,Tomohon,NK Perkasa,Andosol,Pasir,0.6,194,27,38.0,15.0,15.0,30,Vegetatif Aktif,6.6,36,25,22,Seimbang,Pertahankan Kondisi,0,0,0,110,7.6,80
+899,Tondano Utara,Bisi 2,Latosol,Lempung,2.0,191,30,38.0,15.0,15.0,83,Generatif,6.7,24,22,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.8,32
+900,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.5,177,26,23.0,0.0,0.0,17,Vegetatif Awal,5.8,22,13,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,98
+901,Tondano Selatan,Bisi 2,Latosol,Lempung,0.7,235,31,38.0,15.0,15.0,73,Generatif,5.8,27,24,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,42
+902,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.3,181,27,0.0,0.0,0.0,42,Vegetatif Aktif,6.5,16,12,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,48
+903,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.9,195,29,0.0,0.0,0.0,70,Generatif,6.6,10,15,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.1,20
+904,Kauditan,Pertiwi,Andosol,Lempung,1.0,157,27,15.0,15.0,15.0,55,Vegetatif Aktif,6.1,19,23,23,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,50
+905,Kauditan,Pertiwi,Andosol,Pasir,2.6,162,27,0.0,0.0,0.0,23,Vegetatif Awal,5.7,24,16,15,Seimbang,Pertahankan Kondisi,0,0,0,105,5.8,82
+906,Tondano Selatan,Pertiwi,Andosol,Pasir,0.8,233,31,15.0,15.0,15.0,25,Vegetatif Awal,5.9,21,17,15,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,80
+907,Tondano Utara,Pertiwi,Andosol,Pasir,2.3,158,27,38.0,15.0,15.0,67,Generatif,6.4,35,22,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,7.7,38
+908,Sonder,Pioneer Sweet Corn,Latosol,Lempung,2.1,155,31,38.0,15.0,15.0,25,Vegetatif Awal,6.5,24,17,14,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,65
+909,Tombulu,Bisi 2,Regosol,Pasir,1.8,244,27,15.0,15.0,15.0,42,Vegetatif Aktif,6.2,25,24,15,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,73
+910,Tondano Selatan,Bisi 2,Latosol,Lempung,0.6,216,30,23.0,0.0,0.0,11,Vegetatif Awal,6.2,24,20,18,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,104
+911,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,196,31,38.0,15.0,15.0,45,Vegetatif Aktif,6.1,23,21,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,45
+912,Tondano Utara,Bisi 2,Latosol,Lempung,0.9,184,31,23.0,0.0,0.0,61,Generatif,6.4,21,12,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,54
+913,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.8,214,29,38.0,15.0,15.0,84,Generatif,5.8,22,19,23,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,6
+914,Kauditan,Pertiwi,Andosol,Lempung,2.3,166,30,23.0,0.0,0.0,56,Generatif,6.5,21,13,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,49
+915,Tondano Utara,Bisi 2,Latosol,Lempung,1.0,245,31,0.0,0.0,0.0,57,Generatif,6.5,10,13,10,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,5.0,58
+916,Airmadidi,NK Perkasa,Andosol,Lempung,1.4,222,29,0.0,0.0,0.0,83,Generatif,5.6,10,14,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.8,27
+917,Tondano Utara,Pertiwi,Andosol,Pasir,0.7,200,30,23.0,0.0,0.0,56,Generatif,6.4,18,15,18,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,49
+918,Airmadidi,NK Perkasa,Andosol,Pasir,1.1,214,27,23.0,0.0,0.0,20,Vegetatif Awal,6.3,17,8,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.7,90
+919,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.2,164,28,23.0,0.0,0.0,81,Generatif,6.7,20,20,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,6.0,9
+920,Langowan,Pertiwi,Andosol,Pasir,1.3,243,29,23.0,0.0,0.0,53,Vegetatif Aktif,6.8,25,11,20,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,6.8,52
+921,Airmadidi,NK Perkasa,Andosol,Pasir,2.8,189,31,15.0,15.0,15.0,75,Generatif,6.6,16,21,25,Seimbang,Pertahankan Kondisi,0,0,0,110,6.7,35
+922,Tomohon,NK Perkasa,Andosol,Lempung,0.9,160,26,23.0,0.0,0.0,55,Vegetatif Aktif,6.6,21,13,11,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.8,55
+923,Tondano Utara,Bisi 2,Regosol,Pasir,1.3,189,28,23.0,0.0,0.0,35,Vegetatif Aktif,5.6,31,16,16,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,80
+924,Kauditan,Pioneer Sweet Corn,Latosol,Lempung,2.8,241,31,0.0,0.0,0.0,70,Generatif,5.7,25,18,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.1,20
+925,Sonder,Bisi 2,Regosol,Lempung Berpasir,1.0,204,27,15.0,15.0,15.0,28,Vegetatif Aktif,6.1,16,26,21,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,87
+926,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.8,240,26,0.0,0.0,0.0,19,Vegetatif Awal,6.2,17,19,20,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,5.0,71
+927,Langowan,Bisi 2,Regosol,Lempung Berpasir,2.2,171,26,38.0,15.0,15.0,29,Vegetatif Aktif,5.7,32,15,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,86
+928,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.4,177,30,38.0,15.0,15.0,37,Vegetatif Aktif,5.6,33,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.8,53
+929,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,0.8,188,29,38.0,15.0,15.0,39,Vegetatif Aktif,5.9,23,18,17,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,51
+930,Tondano Selatan,Bisi 2,Latosol,Lempung,1.8,225,31,38.0,15.0,15.0,85,Generatif,6.8,29,26,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.7,30
+931,Tondano Selatan,Bisi 2,Regosol,Lempung Berpasir,1.5,203,27,15.0,15.0,15.0,53,Vegetatif Aktif,6.8,28,26,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,62
+932,Airmadidi,NK Perkasa,Regosol,Lempung Berpasir,1.6,187,30,15.0,15.0,15.0,68,Generatif,5.8,19,14,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,42
+933,Tomohon,Bisi 2,Regosol,Lempung Berpasir,3.0,216,27,15.0,15.0,15.0,14,Vegetatif Awal,5.8,27,23,22,Seimbang,Pertahankan Kondisi,0,0,0,115,5.8,101
+934,Tondano Selatan,Pertiwi,Andosol,Pasir,2.8,183,31,0.0,0.0,0.0,64,Generatif,6.0,11,13,19,Seimbang,Pertahankan Kondisi,0,0,0,105,5.7,41
+935,Tombulu,Bisi 2,Regosol,Lempung Berpasir,2.5,181,28,23.0,0.0,0.0,82,Generatif,5.7,25,18,19,Seimbang,Pertahankan Kondisi,0,0,0,115,5.9,33
+936,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.2,231,31,38.0,15.0,15.0,17,Vegetatif Awal,6.8,31,18,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,73
+937,Langowan,Pertiwi,Andosol,Lempung,2.9,153,29,23.0,0.0,0.0,60,Generatif,6.8,28,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,45
+938,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.3,235,26,15.0,15.0,15.0,65,Generatif,5.7,29,18,25,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,25
+939,Tomohon,NK Perkasa,Andosol,Pasir,2.7,158,30,15.0,15.0,15.0,82,Generatif,5.9,24,14,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,28
+940,Tombulu,Pertiwi,Andosol,Lempung,1.7,179,30,0.0,0.0,0.0,76,Generatif,5.6,22,15,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,5.8,29
+941,Langowan,Bisi 2,Regosol,Pasir,2.0,178,28,15.0,15.0,15.0,75,Generatif,5.7,18,15,23,Seimbang,Pertahankan Kondisi,0,0,0,115,6.0,40
+942,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,1.7,242,30,0.0,0.0,0.0,83,Generatif,6.4,14,17,21,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,7
+943,Sonder,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.9,218,31,15.0,15.0,15.0,71,Generatif,6.1,24,23,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,19
+944,Tondano Utara,Pertiwi,Andosol,Lempung,2.0,197,28,0.0,0.0,0.0,27,Vegetatif Aktif,6.4,17,12,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.8,78
+945,Kauditan,Bisi 2,Regosol,Pasir,0.6,248,26,0.0,0.0,0.0,36,Vegetatif Aktif,6.7,14,10,18,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,115,5.0,79
+946,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.4,216,29,15.0,15.0,15.0,68,Generatif,5.9,15,22,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,5.8,22
+947,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.6,159,27,38.0,15.0,15.0,13,Vegetatif Awal,5.5,34,14,14,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,77
+948,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.6,188,28,15.0,15.0,15.0,83,Generatif,5.8,19,14,23,Seimbang,Pertahankan Kondisi,0,0,0,90,5.8,7
+949,Langowan,Pioneer Sweet Corn,Latosol,Lempung,2.6,236,30,0.0,0.0,0.0,42,Vegetatif Aktif,6.5,18,8,17,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.1,48
+950,Tomohon,NK Perkasa,Regosol,Pasir,0.8,171,27,38.0,15.0,15.0,11,Vegetatif Awal,6.6,24,17,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.9,99
+951,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.2,164,26,0.0,0.0,0.0,41,Vegetatif Aktif,5.5,25,9,16,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.0,49
+952,Kauditan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,2.0,245,30,0.0,0.0,0.0,26,Vegetatif Aktif,5.8,23,18,14,Seimbang,Pertahankan Kondisi,0,0,0,90,5.1,64
+953,Tomohon,NK Perkasa,Andosol,Pasir,1.9,225,31,23.0,0.0,0.0,64,Generatif,5.8,22,17,22,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,46
+954,Tomohon,NK Perkasa,Andosol,Lempung,1.7,196,27,15.0,15.0,15.0,49,Vegetatif Aktif,6.4,18,26,14,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,61
+955,Tombulu,Pertiwi,Andosol,Pasir,2.8,222,31,23.0,0.0,0.0,25,Vegetatif Awal,5.7,29,8,19,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,80
+956,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,0.9,202,29,15.0,15.0,15.0,57,Generatif,6.5,19,17,19,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,33
+957,Tondano Utara,Bisi 2,Regosol,Lempung Berpasir,0.8,202,27,15.0,15.0,15.0,21,Vegetatif Awal,6.7,14,24,19,Defisiensi_N,Tambah Urea Susulan I,100,0,0,115,5.8,94
+958,Tondano Utara,NK Perkasa,Regosol,Lempung Berpasir,2.4,230,29,23.0,0.0,0.0,83,Generatif,6.0,19,10,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,5.9,27
+959,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,1.3,235,29,0.0,0.0,0.0,62,Generatif,6.1,12,16,22,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,28
+960,Airmadidi,NK Perkasa,Andosol,Lempung,1.0,195,30,38.0,15.0,15.0,46,Vegetatif Aktif,5.5,33,16,21,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,64
+961,Tondano Utara,Pertiwi,Andosol,Pasir,2.4,160,27,23.0,0.0,0.0,31,Vegetatif Aktif,5.8,21,19,18,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,74
+962,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.9,230,28,15.0,15.0,15.0,73,Generatif,6.3,28,15,24,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,17
+963,Langowan,Pioneer Sweet Corn,Latosol,Lempung,0.7,237,30,38.0,15.0,15.0,22,Vegetatif Awal,5.6,31,22,20,Seimbang,Pertahankan Kondisi,0,0,0,90,6.9,68
+964,Tondano Selatan,NK Perkasa,Regosol,Lempung Berpasir,2.6,219,29,15.0,15.0,15.0,82,Generatif,6.2,19,21,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.0,28
+965,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.3,241,31,0.0,0.0,0.0,74,Generatif,6.7,17,9,16,Defisiensi_K,Tambah KCl Susulan III,0,0,75,90,4.9,16
+966,Langowan,Pertiwi,Andosol,Pasir,1.2,154,26,23.0,0.0,0.0,36,Vegetatif Aktif,5.7,26,17,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,69
+967,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,3.0,177,26,0.0,0.0,0.0,29,Vegetatif Aktif,6.6,16,16,21,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,86
+968,Sonder,NK Perkasa,Andosol,Pasir,0.8,166,30,15.0,15.0,15.0,15,Vegetatif Awal,5.8,19,14,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,110,6.8,95
+969,Tombulu,Pioneer Sweet Corn,Latosol,Lempung,2.7,202,31,23.0,0.0,0.0,31,Vegetatif Aktif,5.5,22,14,21,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,90,5.9,59
+970,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.1,193,26,15.0,15.0,15.0,22,Vegetatif Awal,6.5,17,25,23,Defisiensi_N,Tambah Urea Susulan I,100,0,0,90,6.0,68
+971,Tondano Selatan,Bisi 2,Latosol,Lempung Berpasir,2.7,219,27,0.0,0.0,0.0,45,Vegetatif Aktif,5.7,17,16,22,Seimbang,Pertahankan Kondisi,0,0,0,115,4.9,70
+972,Langowan,Pertiwi,Andosol,Pasir,1.8,150,31,0.0,0.0,0.0,30,Vegetatif Aktif,6.8,11,12,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,105,5.7,75
+973,Langowan,Pertiwi,Andosol,Lempung,0.9,158,27,15.0,15.0,15.0,52,Vegetatif Aktif,5.5,20,20,24,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,53
+974,Langowan,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.1,165,30,23.0,0.0,0.0,15,Vegetatif Awal,6.2,21,15,12,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,75
+975,Tondano Selatan,Pertiwi,Andosol,Lempung,2.1,212,27,15.0,15.0,15.0,20,Vegetatif Awal,6.1,20,24,22,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,85
+976,Tondano Utara,NK Perkasa,Regosol,Pasir,0.9,220,27,38.0,15.0,15.0,82,Generatif,6.4,26,26,23,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,28
+977,Sonder,NK Perkasa,Andosol,Lempung,3.0,166,31,38.0,15.0,15.0,52,Vegetatif Aktif,5.6,27,23,20,Seimbang,Pertahankan Kondisi,0,0,0,110,7.5,58
+978,Sonder,NK Perkasa,Andosol,Pasir,2.5,214,29,38.0,15.0,15.0,32,Vegetatif Aktif,6.1,33,19,14,Seimbang,Pertahankan Kondisi,0,0,0,110,7.7,78
+979,Kauditan,Pertiwi,Andosol,Pasir,0.9,242,31,23.0,0.0,0.0,78,Generatif,6.0,29,12,17,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.7,27
+980,Tomohon,NK Perkasa,Regosol,Pasir,1.3,244,31,15.0,15.0,15.0,55,Vegetatif Aktif,6.8,23,14,22,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,5.9,55
+981,Tombulu,Pertiwi,Andosol,Pasir,2.0,201,29,15.0,15.0,15.0,22,Vegetatif Awal,5.6,19,26,16,Defisiensi_N,Tambah Urea Susulan I,100,0,0,105,6.6,83
+982,Tondano Utara,Pertiwi,Andosol,Pasir,2.9,215,27,23.0,0.0,0.0,41,Vegetatif Aktif,6.1,22,18,17,Seimbang,Pertahankan Kondisi,0,0,0,105,6.8,64
+983,Tondano Utara,Pertiwi,Andosol,Pasir,1.9,242,29,38.0,15.0,15.0,53,Vegetatif Aktif,5.6,33,24,22,Seimbang,Pertahankan Kondisi,0,0,0,105,7.5,52
+984,Tondano Selatan,Bisi 2,Latosol,Lempung,2.1,196,31,38.0,15.0,15.0,71,Generatif,5.6,36,21,20,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,44
+985,Tombulu,Pertiwi,Andosol,Lempung,1.6,155,30,23.0,0.0,0.0,81,Generatif,5.6,20,16,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,105,6.8,24
+986,Tondano Utara,Bisi 2,Latosol,Lempung Berpasir,1.9,228,29,23.0,0.0,0.0,77,Generatif,6.0,21,10,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,115,6.0,38
+987,Sonder,NK Perkasa,Andosol,Pasir,2.6,168,30,23.0,0.0,0.0,84,Generatif,6.7,19,8,12,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.8,26
+988,Langowan,NK Perkasa,Regosol,Lempung Berpasir,1.5,225,26,38.0,15.0,15.0,69,Generatif,5.8,30,15,20,Seimbang,Pertahankan Kondisi,0,0,0,110,6.8,41
+989,Tondano Selatan,Pertiwi,Andosol,Lempung,1.6,200,28,15.0,15.0,15.0,75,Generatif,5.7,19,24,20,Seimbang,Pertahankan Kondisi,0,0,0,105,6.7,30
+990,Langowan,NK Perkasa,Regosol,Pasir,1.5,247,31,38.0,15.0,15.0,82,Generatif,6.6,21,18,14,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,6.8,28
+991,Airmadidi,NK Perkasa,Andosol,Pasir,1.4,150,30,23.0,0.0,0.0,29,Vegetatif Aktif,5.8,26,10,12,Defisiensi_P,Tambah SP36 Susulan II,0,50,0,110,6.7,81
+992,Sonder,NK Perkasa,Andosol,Pasir,0.6,174,26,38.0,15.0,15.0,79,Generatif,6.5,29,15,15,Defisiensi_K,Tambah KCl Susulan III,0,0,75,110,7.5,31
+993,Tombulu,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.4,195,27,23.0,0.0,0.0,24,Vegetatif Awal,5.9,23,16,12,Seimbang,Pertahankan Kondisi,0,0,0,90,5.9,66
+994,Tomohon,Pioneer Sweet Corn,Latosol,Lempung,2.9,195,31,0.0,0.0,0.0,47,Vegetatif Aktif,6.0,16,16,12,Seimbang,Pertahankan Kondisi,0,0,0,90,5.0,43
+995,Airmadidi,Pioneer Sweet Corn,Latosol,Lempung,2.0,162,30,0.0,0.0,0.0,84,Generatif,6.4,21,18,18,Seimbang,Pertahankan Kondisi,0,0,0,90,5.1,6
+996,Sonder,NK Perkasa,Regosol,Pasir,1.8,172,28,15.0,15.0,15.0,63,Generatif,5.7,16,14,19,Seimbang,Pertahankan Kondisi,0,0,0,110,5.8,47
+997,Tombulu,Bisi 2,Regosol,Lempung Berpasir,0.9,168,30,38.0,15.0,15.0,29,Vegetatif Aktif,6.5,27,24,18,Seimbang,Pertahankan Kondisi,0,0,0,115,6.8,86
+998,Airmadidi,NK Perkasa,Regosol,Pasir,2.0,238,27,23.0,0.0,0.0,62,Generatif,5.5,29,13,18,Seimbang,Pertahankan Kondisi,0,0,0,110,5.9,48
+999,Tondano Utara,Bisi 2,Regosol,Pasir,1.0,162,29,38.0,15.0,15.0,29,Vegetatif Aktif,5.8,30,25,14,Seimbang,Pertahankan Kondisi,0,0,0,115,6.9,86
+1000,Tomohon,Pioneer Sweet Corn,Latosol,Lempung Berpasir,1.7,169,30,15.0,15.0,15.0,60,Generatif,5.8,16,17,24,Seimbang,Pertahankan Kondisi,0,0,0,90,6.0,30
