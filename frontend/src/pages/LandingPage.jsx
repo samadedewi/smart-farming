@@ -5,7 +5,7 @@ export default function LandingPage() {
   const { user } = useAuth();
 
   return (
-    <div style={{ background: 'var(--bg-color)', minHeight: '100vh', position: 'relative', overflow: 'hidden' }}>
+    <div style={{ background: 'var(--bg-color)', minHeight: '100vh', position: 'relative' }}>
       {/* Decorative Bubbles */}
       {[
         // Large background blobs
