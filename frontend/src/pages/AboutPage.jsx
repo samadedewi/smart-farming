@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export default function AboutPage() {
   return (
-    <div style={{ background: 'var(--bg-color)', minHeight: '100vh', position: 'relative' }}>
+    <div style={{ background: 'var(--bg-color)', minHeight: '100vh', position: 'relative', overflow: 'hidden' }}>
       {/* Decorative Bubbles */}
       <div style={{ position: 'absolute', width: 450, height: 450, borderRadius: '50%', background: 'rgba(47,79,47,0.05)', top: '-10%', left: '-10%', zIndex: 0 }} />
       <div style={{ position: 'absolute', width: 350, height: 350, borderRadius: '50%', background: 'rgba(47,79,47,0.06)', bottom: '-5%', right: '-5%', zIndex: 0 }} />
