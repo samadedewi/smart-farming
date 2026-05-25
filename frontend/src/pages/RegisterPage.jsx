@@ -66,7 +66,33 @@ export default function RegisterPage() {
   };
 
   return (
-    <div className="flex-stack" style={{ minHeight: '100vh', display: 'flex', background: 'var(--bg-color)' }}>
+    <div className="flex-stack" style={{ minHeight: '100vh', display: 'flex', background: 'var(--bg-color)', position: 'relative' }}>
+      {/* Back Button */}
+      <Link to="/" style={{
+        position: 'absolute',
+        top: '24px',
+        left: '24px',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        width: '42px',
+        height: '42px',
+        color: 'var(--primary-dark)',
+        textDecoration: 'none',
+        zIndex: 10,
+        background: 'rgba(255,255,255,0.8)',
+        borderRadius: '50%',
+        backdropFilter: 'blur(4px)',
+        boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+        transition: 'all 0.2s ease',
+      }}
+      onMouseEnter={e => e.currentTarget.style.background = 'white'}
+      onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.8)'}
+      title="Kembali ke Awal"
+      >
+        <span style={{ fontSize: '1.2rem', lineHeight: 1 }}>←</span>
+      </Link>
+
       {/* Left Panel - Branding */}
       <div className="auth-left-panel" style={{
         flex: 1, background: 'linear-gradient(160deg, var(--primary-dark) 0%, #1a2e1a 100%)',

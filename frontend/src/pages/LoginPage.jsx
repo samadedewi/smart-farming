@@ -58,34 +58,34 @@ export default function LoginPage() {
 
       {/* Main Card */}
       <div className="auth-card-wrapper">
+        {/* Back Button */}
+        <Link to="/" style={{
+          position: 'absolute',
+          top: '24px',
+          left: '24px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          width: '42px',
+          height: '42px',
+          color: 'var(--primary-dark)',
+          textDecoration: 'none',
+          zIndex: 10,
+          background: 'rgba(255,255,255,0.8)',
+          borderRadius: '50%',
+          backdropFilter: 'blur(4px)',
+          boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+          transition: 'all 0.2s ease',
+        }}
+        onMouseEnter={e => e.currentTarget.style.background = 'white'}
+        onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.8)'}
+        title="Kembali ke Awal"
+        >
+          <span style={{ fontSize: '1.2rem', lineHeight: 1 }}>←</span>
+        </Link>
+
         {/* Left Panel - Illustration with Organic Blob */}
         <div className="auth-left-panel">
-          {/* Back Button */}
-          <Link to="/" style={{
-            position: 'absolute',
-            top: '24px',
-            left: '24px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            width: '42px',
-            height: '42px',
-            color: 'var(--primary-dark)',
-            textDecoration: 'none',
-            zIndex: 10,
-            background: 'rgba(255,255,255,0.5)',
-            borderRadius: '50%',
-            backdropFilter: 'blur(4px)',
-            boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
-            transition: 'all 0.2s ease',
-          }}
-          onMouseEnter={e => e.currentTarget.style.background = 'white'}
-          onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.5)'}
-          title="Kembali ke Awal"
-          >
-            <span style={{ fontSize: '1.2rem', lineHeight: 1 }}>←</span>
-          </Link>
-
           {/* Organic Blob SVG Background */}
           <svg
             viewBox="0 0 500 600"
