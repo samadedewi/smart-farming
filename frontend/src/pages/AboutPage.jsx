@@ -26,33 +26,47 @@ export default function AboutPage() {
       {/* Content */}
       <div className="container" style={{ position: 'relative', zIndex: 1, padding: '40px 20px', maxWidth: '800px' }}>
         <div className="card animate-fade-in" style={{ padding: '40px', borderRadius: '24px' }}>
-          <h1 style={{ fontSize: '2.5rem', color: 'var(--primary-dark)', marginBottom: '24px', letterSpacing: '-0.5px' }}>Tentang SiTani</h1>
+          <h1 style={{ textAlign: 'center', fontSize: '2.5rem', color: 'var(--primary-dark)', marginBottom: '40px', letterSpacing: '-0.5px' }}>Tentang Kami</h1>
           
-          <div style={{ color: 'var(--text-main)', lineHeight: 1.8, fontSize: '1.05rem', display: 'flex', flexDirection: 'column', gap: '20px' }}>
-            <p>
+          <div style={{ marginBottom: '40px' }}>
+            <h3 style={{ color: 'var(--primary-dark)', marginBottom: '12px' }}>Apa itu SiTani?</h3>
+            <p style={{ color: 'var(--text-main)', lineHeight: 1.8, fontSize: '1.05rem' }}>
               <strong>SiTani (Smart Farming System)</strong> adalah platform pertanian cerdas berbasis Internet of Things (IoT) dan Machine Learning yang dirancang khusus untuk mengoptimalkan hasil panen jagung di Indonesia.
             </p>
-            
-            <p>
-              Sistem ini memadukan perangkat keras sensor tanah (ESP32) yang membaca kadar pH, Nitrogen, Fosfor, Kalium (NPK), suhu, dan kelembaban secara real-time. Data ini kemudian diolah menggunakan model kecerdasan buatan untuk memberikan rekomendasi varietas benih, estimasi kebutuhan pupuk susulan, dan prediksi hasil panen.
+            <p style={{ color: 'var(--text-main)', lineHeight: 1.8, fontSize: '1.05rem', marginTop: '12px' }}>
+              Sistem ini memadukan perangkat keras sensor tanah (ESP32) yang membaca kondisi lahan secara real-time. Data ini kemudian diolah menggunakan model kecerdasan buatan untuk memberikan rekomendasi varietas benih, estimasi kebutuhan pupuk susulan, dan prediksi hasil panen.
             </p>
-            
-            <h3 style={{ color: 'var(--primary-dark)', marginTop: '20px' }}>Visi & Misi</h3>
-            <p>
+          </div>
+
+          <div style={{ marginBottom: '50px' }}>
+            <h3 style={{ color: 'var(--primary-dark)', marginBottom: '12px' }}>Latar Belakang & Tujuan</h3>
+            <p style={{ color: 'var(--text-main)', lineHeight: 1.8, fontSize: '1.05rem' }}>
               Misi kami adalah membantu petani tradisional bertransisi ke pertanian modern yang lebih presisi, efisien, dan berkelanjutan. Dengan memanfaatkan data secara akurat, diharapkan risiko gagal panen dapat ditekan dan produktivitas hasil tani meningkat secara signifikan.
             </p>
+          </div>
 
-            <h3 style={{ color: 'var(--primary-dark)', marginTop: '20px' }}>Kolaborasi & Tim Pengembang</h3>
-            <p>
-              Proyek ini dikembangkan sebagai bentuk nyata penerapan teknologi tepat guna oleh mahasiswa <strong>Politeknik Negeri Manado (POLIMDO)</strong>, Jurusan Teknik Elektro, Prodi D4 Teknik Informatika melalui program Project Based Learning (PBL) bekerjasama dengan mitra-mitra terkait di bidang pertanian.
+          <div style={{ borderTop: '1px solid rgba(0,0,0,0.1)', paddingTop: '40px' }}>
+            <h3 style={{ color: 'var(--primary-dark)', marginBottom: '8px', textAlign: 'center', fontSize: '1.8rem' }}>Tim Pengembang</h3>
+            <p style={{ textAlign: 'center', color: 'var(--text-muted)', marginBottom: '32px', fontSize: '0.95rem' }}>
+              Proyek PBL - Jurusan Teknik Elektro, Prodi D4 Teknik Informatika<br/><strong>Politeknik Negeri Manado (POLIMDO)</strong>
             </p>
-            <p style={{ marginTop: '10px' }}><strong>Anggota Tim:</strong></p>
-            <ul style={{ marginLeft: '20px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
-              <li>Jesica Sofiani Gigir</li>
-              <li>Sofia Natania Samel</li>
-              <li>Jonathan James Junior Ruben</li>
-              <li>Dewi Shinta Samade</li>
-            </ul>
+            
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '20px' }}>
+              {[
+                'Jesica Sofiani Gigir', 
+                'Sofia Natania Samel', 
+                'Jonathan James Junior Ruben', 
+                'Dewi Shinta Samade'
+              ].map(name => (
+                <div key={name} style={{ background: '#f8faf8', padding: '24px 16px', borderRadius: '16px', textAlign: 'center', border: '1px solid rgba(47,79,47,0.1)', transition: 'transform 0.2s' }} onMouseEnter={e => e.currentTarget.style.transform = 'translateY(-5px)'} onMouseLeave={e => e.currentTarget.style.transform = 'translateY(0)'}>
+                  <div style={{ width: '64px', height: '64px', borderRadius: '50%', background: 'linear-gradient(135deg, #2A9D8F, #2F4F2F)', color: 'white', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.5rem', fontWeight: 'bold', margin: '0 auto 16px', boxShadow: '0 4px 10px rgba(47,79,47,0.2)' }}>
+                    {name.charAt(0)}
+                  </div>
+                  <h4 style={{ fontSize: '1rem', color: 'var(--primary-dark)', marginBottom: '4px', lineHeight: 1.4 }}>{name}</h4>
+                  <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Mahasiswa</span>
+                </div>
+              ))}
+            </div>
           </div>
           
           <div style={{ marginTop: '40px', textAlign: 'center' }}>
