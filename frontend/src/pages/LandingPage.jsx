@@ -164,7 +164,7 @@ export default function LandingPage() {
           <div>
             <h4 style={{ color: 'white', marginBottom: '16px', fontSize: '0.875rem', letterSpacing: '0.5px', textTransform: 'uppercase' }}>Kontak</h4>
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '10px' }}>
-              {['info@sitani.id', '+62 812-3456-7890', 'Jakarta, Indonesia'].map((item) => (
+              {['info@sitani.id', 'Manado, Indonesia'].map((item) => (
                 <li key={item} style={{ color: 'rgba(255,255,255,0.65)', fontSize: '0.875rem' }}>{item}</li>
               ))}
             </ul>
