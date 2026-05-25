@@ -50,11 +50,12 @@ export default function LandingPage() {
             </div>
           </div>
           <div style={{ display: 'flex', gap: '12px', alignItems: 'center' }}>
+            <Link to="/about" style={{ padding: '10px 20px', fontWeight: 600, color: 'var(--text-main)', textDecoration: 'none' }}>Tentang</Link>
             {user ? (
               <Link to="/dashboard" className="btn btn-primary">Dashboard</Link>
             ) : (
               <>
-                <Link to="/login" style={{ padding: '10px 20px', fontWeight: 600, color: 'var(--text-main)', borderRadius: '99px' }}>Masuk</Link>
+                <Link to="/login" style={{ padding: '10px 20px', fontWeight: 600, color: 'var(--text-main)', borderRadius: '99px', textDecoration: 'none' }}>Masuk</Link>
                 <Link to="/login" className="btn btn-primary">Daftar</Link>
               </>
             )}

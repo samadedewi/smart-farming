@@ -10,6 +10,7 @@ import Riwayat from './pages/Riwayat';
 import Laporan from './pages/Laporan';
 
 import RegisterPage from './pages/RegisterPage';
+import AboutPage from './pages/AboutPage';
 
 // Protected route wrapper
 function PrivateRoute({ children }) {
@@ -21,6 +22,7 @@ function AppRoutes() {
   return (
     <Routes>
       <Route path="/" element={<LandingPage />} />
+      <Route path="/about" element={<AboutPage />} />
       <Route path="/login" element={<LoginPage />} />
       <Route path="/register" element={<RegisterPage />} />
       <Route path="/dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
