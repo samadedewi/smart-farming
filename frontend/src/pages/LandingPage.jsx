@@ -41,7 +41,7 @@ export default function LandingPage() {
       ))}
       
       {/* Navbar */}
-      <div style={{ padding: '24px 48px', width: '100%', position: 'relative', zIndex: 10 }}>
+      <div className="container" style={{ paddingTop: '24px', paddingBottom: '24px', position: 'relative', zIndex: 10 }}>
         <nav className="site-navbar">
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <div>

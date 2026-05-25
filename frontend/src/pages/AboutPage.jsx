@@ -9,8 +9,8 @@ export default function AboutPage() {
       <div style={{ position: 'absolute', width: 350, height: 350, borderRadius: '50%', background: 'rgba(47,79,47,0.06)', bottom: '-5%', right: '-5%', zIndex: 0 }} />
       
       {/* Navbar */}
-      <div style={{ padding: '24px 48px', width: '100%', position: 'relative', zIndex: 10 }}>
-        <nav className="site-navbar">
+      <div className="container" style={{ paddingTop: '24px', paddingBottom: '24px', position: 'relative', zIndex: 10 }}>
+        <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <Link to="/" style={{ textDecoration: 'none' }}>
               <div style={{ fontWeight: 800, color: 'var(--primary-dark)', fontSize: '1.8rem', lineHeight: 1, letterSpacing: '-0.5px' }}>SiTani</div>
