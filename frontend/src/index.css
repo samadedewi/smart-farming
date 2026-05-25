@@ -270,7 +270,7 @@ h4 { color: var(--primary-dark); font-weight: 600; }
     display: none !important; /* Hide illustration on small screens */
   }
   .auth-right-panel {
-    padding: 40px 24px !important;
+    padding: 80px 24px 40px 24px !important;
   }
   
   /* AppLayout & Sidebar */
