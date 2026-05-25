@@ -218,6 +218,40 @@ h2 { color: var(--primary-dark); font-weight: 700; }
 h3 { color: var(--primary-dark); font-weight: 700; margin-bottom: 8px; }
 h4 { color: var(--primary-dark); font-weight: 600; }
 
+/* ─── Auth Cards Layout ────────────────────────────────────────────── */
+.auth-card-wrapper {
+  width: 100%;
+  max-width: 1050px;
+  min-height: 560px;
+  background: white;
+  border-radius: 24px;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.3);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.auth-left-panel {
+  flex: 0 0 48%;
+  position: relative;
+  overflow: hidden;
+  background: #f0f5f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.auth-right-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px 56px;
+}
+
 /* ─── Responsive ─────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .landing-hero { padding: 60px 16px; min-height: auto; }

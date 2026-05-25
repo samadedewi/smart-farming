@@ -57,30 +57,9 @@ export default function LoginPage() {
       ))}
 
       {/* Main Card */}
-      <div className="auth-card-wrapper" style={{
-        width: '100%',
-        maxWidth: 1050,
-        minHeight: 560,
-        background: 'white',
-        borderRadius: '24px',
-        boxShadow: '0 25px 60px rgba(0,0,0,0.3)',
-        display: 'flex',
-        overflow: 'hidden',
-        position: 'relative',
-        zIndex: 1,
-      }}>
+      <div className="auth-card-wrapper">
         {/* Left Panel - Illustration with Organic Blob */}
-        <div className="auth-left-panel" style={{
-          flex: '0 0 48%',
-          position: 'relative',
-          overflow: 'hidden',
-          background: '#f0f5f0',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          justifyContent: 'center',
-          padding: '20px',
-        }}>
+        <div className="auth-left-panel">
           {/* Back Button */}
           <Link to="/" style={{
             position: 'absolute',
@@ -172,13 +151,7 @@ export default function LoginPage() {
         </div>
 
         {/* Right Panel - Login Form */}
-        <div className="auth-right-panel" style={{
-          flex: 1,
-          display: 'flex',
-          flexDirection: 'column',
-          justifyContent: 'center',
-          padding: '60px 56px',
-        }}>
+        <div className="auth-right-panel">
           <h1 style={{
             fontSize: '2.5rem',
             fontWeight: 800,
