@@ -49,6 +49,7 @@ const VARIETIES = {
 
 export default function Dashboard() {
   const { user } = useAuth();
+  const { pushSystemNotification } = useNotifications();
   const [activeTab, setActiveTab] = useState('dashboard'); // 'dashboard', 'lahan', 'perencanaan', 'eksekusi'
 
   // Data State
@@ -389,6 +390,9 @@ export default function Dashboard() {
       const d = await res.json();
       if (d.success) {
         showToast(d.message, 'success');
+        if (pushSystemNotification) {
+          pushSystemNotification('operator_user', 'Perintah Baru', `Manager mengirim instruksi: ${customOrderForm.jenis_fase}. Silakan cek di tab Eksekusi Perintah Lapangan.`, 'warning');
+        }
         setCustomOrderForm({
           jenis_fase: 'Pemupukan Susulan I',
           umur_target_hst: '15',
@@ -438,6 +442,9 @@ export default function Dashboard() {
       const d = await res.json();
       if (d.success) {
         showToast(d.message, 'success');
+        if (pushSystemNotification) {
+          pushSystemNotification('manager_user', 'Tugas Selesai', `Operator telah menyelesaikan tugas pemupukan. Menunggu verifikasi Anda.`, 'info');
+        }
         setExecutingOrder(null);
         setRealizationText('');
         fetchPemupukan();
