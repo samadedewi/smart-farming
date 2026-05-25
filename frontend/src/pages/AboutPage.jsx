@@ -42,10 +42,17 @@ export default function AboutPage() {
               Misi kami adalah membantu petani tradisional bertransisi ke pertanian modern yang lebih presisi, efisien, dan berkelanjutan. Dengan memanfaatkan data secara akurat, diharapkan risiko gagal panen dapat ditekan dan produktivitas hasil tani meningkat secara signifikan.
             </p>
 
-            <h3 style={{ color: 'var(--primary-dark)', marginTop: '20px' }}>Kolaborasi</h3>
+            <h3 style={{ color: 'var(--primary-dark)', marginTop: '20px' }}>Kolaborasi & Tim Pengembang</h3>
             <p>
-              Proyek ini dikembangkan sebagai bentuk nyata penerapan teknologi tepat guna oleh Politeknik Negeri Manado (POLIMDO) melalui program Project Based Learning (PBL) bekerjasama dengan mitra-mitra terkait di bidang pertanian.
+              Proyek ini dikembangkan sebagai bentuk nyata penerapan teknologi tepat guna oleh mahasiswa <strong>Politeknik Negeri Manado (POLIMDO)</strong>, Jurusan Teknik Elektro, Prodi D4 Teknik Informatika melalui program Project Based Learning (PBL) bekerjasama dengan mitra-mitra terkait di bidang pertanian.
             </p>
+            <p style={{ marginTop: '10px' }}><strong>Anggota Tim:</strong></p>
+            <ul style={{ marginLeft: '20px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
+              <li>Jesica Sofiani Gigir</li>
+              <li>Sofia Natania Samel</li>
+              <li>Jonathan James Junior Ruben</li>
+              <li>Dewi Shinta Samade</li>
+            </ul>
           </div>
           
           <div style={{ marginTop: '40px', textAlign: 'center' }}>
